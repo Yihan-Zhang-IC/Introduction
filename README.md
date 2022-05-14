@@ -1,2 +1,2 @@
-# PublicPage
-Public Page of Me
+# Yihan Zhang
+... and wellcome to my personal page
