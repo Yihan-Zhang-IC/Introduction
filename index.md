@@ -22,10 +22,10 @@
 
 <hr style="height:3px">
 
-## Featured Projects and Publications
+## Projects and Publications Highlights
 
 **Augmented Ultrasonography with Implanted CMOS Electronic Motes**,
-_in [2019 Custom Integrated Circuit Conference](https://ieeexplore.ieee.org/abstract/document/8780205)_
+in _[2019 Custom Integrated Circuit Conference](https://ieeexplore.ieee.org/abstract/document/8780205)_
 
 <details markdown="1">
 <summary>More details</summary>
@@ -36,7 +36,7 @@ _in [2019 Custom Integrated Circuit Conference](https://ieeexplore.ieee.org/abst
 
 ---
 
-**Sub-nW fully integrated pH sensor**, _in [2020 IEEE Symposium on VLSI Circuits](https://ieeexplore.ieee.org/abstract/document/9163023)_
+**Sub-nW fully integrated pH sensor**, in _[2020 IEEE Symposium on VLSI Circuits](https://ieeexplore.ieee.org/abstract/document/9163023)_
 
 - A full stack engineering 
 
@@ -72,7 +72,7 @@ Also available at [my Google Scholar page](https://scholar.google.com/citations?
 
 1. **Y. Zhang**, C. Xue, X. Wang, T. Liu, J. Gao, P. Chen, J. Liu, L. Sun, L. Shen, J. Ru, L. Ye, and R. Huang, "[Single-Mode 6T CMOS SRAM Macros with Keeper-Loading-Free Peripherals and Row-Separate Dynamic Body Bias Achieving 2.53fW/bit Leakage for AIoT Sensing Platforms](https://ieeexplore.ieee.org/document/9731573)," in _2022 IEEE International Solid-State Circuit Conference (ISSCC)_, pp. 184-186, Feb. 20, 2022
 
-1. Y. Liu, Z. Wang, W. He, L. Shen, **Y. Zhang**, P. Chen, M. Wu, H. Zhang, P. Zhou, J. Liu, G. Sun, J. Ru, L. Ye, and R. Huang, "[An 82nW 0.53pJ/SOP Clock-Free Spiking Neural Network with 40µs Latency for AloT Wake-Up Functions Using Ultimate-Event-Driven Bionic Architecture and Computing-in-Memory Technique](https://ieeexplore.ieee.org/abstract/document/9731795)," 2022 IEEE International Solid-State Circuits Conference (ISSCC), pp. 372-374, Feb. 20, 2022
+1. Y. Liu, Z. Wang, W. He, L. Shen, **Y. Zhang**, P. Chen, M. Wu, H. Zhang, P. Zhou, J. Liu, G. Sun, J. Ru, L. Ye, and R. Huang, "[An 82nW 0.53pJ/SOP Clock-Free Spiking Neural Network with 40µs Latency for AloT Wake-Up Functions Using Ultimate-Event-Driven Bionic Architecture and Computing-in-Memory Technique](https://ieeexplore.ieee.org/abstract/document/9731795)," in _2022 IEEE International Solid-State Circuits Conference (ISSCC)_, pp. 372-374, Feb. 20, 2022
 
 1. L. Ye, Z. Wang, Y. Liu, P. Chen, H. Li, H. Zhang, M. Wu, W. He, L. Shen, **Y. Zhang**, Z. Tan, Y. Wang, and R. Huang, "[The Challenges and Emerging Technologies for Low-Power Artificial Intelligence IoT Systems](https://ieeexplore.ieee.org/abstract/document/9516591)," in _IEEE Transactions on Circuits and Systems I: Regular Papers_, vol. 68, no. 12, pp. 4821-4834, Dec. 2021
 
@@ -104,17 +104,14 @@ Also available at [my Google Scholar page](https://scholar.google.com/citations?
 
 
 ## Skills
-\begin{tabbing}
 
-    \hspace{\tabFirstIndent} \= {\bf Computer-Aided Design Tools for Hardware}: \= Cadence Virtuoso, Cadence Innovus, Cadence Genus, Synopsys SiliconSmart, Synopsys\\
-    \hspace{\tabSecondIndent} Design Compiler (Design Vision), Synopsys Library Compiler, Mentor Graphics ModelSim, Xilinx Vivado (ISE), Cadence Allegro, Altium Designer\\
-    \> {\bf Hardware Description Language}: Verilog, System Verilog\\
-    \> {\bf Semiconductor Packaging}: Dicing, flipchip packaging, wirebonding\\
-    \> {\bf Device Fabrication}: \= Photolithography, electron beam deposition, thermal deposition, chemical etching\\
-    \> {\bf Selected Programming and Scripting Language}: C, C\#, C++, Python, Java, Rust, Swift, Lisp, {\fontfamily{cmr}\selectfont\LaTeX}, GLSL, Bash, Matlab, Lua, JSON\\
-	%\> {\bf Software Frameworks}: OpenGL, OpenCV, Qt, XNA, Unity\\
-	%\> {\bf Multimedia Software}: Sony Vegas, Adobe Photoshop, Adobe After Effects, Adobe Premier.\\
-	\> {\bf Language}: Mandarin Chinese and English
+- **Computer-Aided Design Tools for Hardware**: Cadence Virtuoso, Cadence Innovus, Cadence Genus, Synopsys SiliconSmart, Synopsys Design Compiler (Design Vision), Synopsys Library Compiler, Mentor Graphics ModelSim, Xilinx Vivado (ISE), Cadence Allegro, Altium Designer
+- **Hardware Description Language**: Verilog, System Verilog
+- **Device Fabrication**: Photolithography, electron beam deposition, thermal deposition, chemical etching
+- **Semiconductor Packaging**: Dicing, flip-chip packaging, wirebonding
+- **Selected Programming and Scripting Language**: C, C\#, C++, Python, Java, Rust, Swift, Lisp, SKILL, LaTeX, GLSL, Bash, Matlab, Lua, JSON, YAML, HTML, CSS, shell (bash, zsh, csh, etc.)
+- **Software Frameworks**: OpenGL, OpenCV, Qt, XNA, Unity
+- **Language**: Mandarin Chinese and English
 
 ## About This Page
 
