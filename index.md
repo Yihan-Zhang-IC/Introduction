@@ -69,15 +69,15 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ## Publications
 
-1. **Y. Zhang**, C. Xue, X. Wang, T. Liu, J. Gao, P. Chen, J. Liu, L. Sun, L. Shen, J. Ru, L. Ye, and R. Huang, _"Single-mode 6T CMOS SRAM macros with keeper-loading-free peripherals and row-separate dynamic body bias achieving 2.53fW/bit leakage for AIoT sensing platforms_, IEEE International Solid-State Circuit Conference, Feb 20, 2022
+1. **Y. Zhang**, C. Xue, X. Wang, T. Liu, J. Gao, P. Chen, J. Liu, L. Sun, L. Shen, J. Ru, L. Ye, and R. Huang, _"Single-mode 6T CMOS SRAM macros with keeper-loading-free peripherals and row-separate dynamic body bias achieving 2.53fW/bit leakage for AIoT sensing platforms_, in IEEE International Solid-State Circuit Conference, Feb 20, 2022
 
-1. **Y. Zhang**, F. A. Cardoso, and K. L. Shepard, _A 0.72 nW, 1 sample/s fully integrated pH sensor with 65.8 LSB/pH sensitivity_, IEEE VLSI Symposium on Circuits, June 15, 2020
+1. **Y. Zhang**, F. A. Cardoso, and K. L. Shepard, _A 0.72 nW, 1 sample/s fully integrated pH sensor with 65.8 LSB/pH sensitivity_, in IEEE VLSI Symposium on Circuits, June 15, 2020
 
-1. <u>W-C. Cornell</u>, <u>**Y. Zhang**</u>, A. Bendebury, A. J. W. Hartel, K. L. Shepard, and L. E. P. Dietrich, ``{\it Phenazine oxidation by a distal electrode modulates biofilm morphogenesis}'', Biofilm, May 3, 2020 (co-first author)
+1. <u>W-C. Cornell</u>, **<u>Y. Zhang</u>**, A. Bendebury, A. J. W. Hartel, K. L. Shepard, and L. E. P. Dietrich, _Phenazine oxidation by a distal electrode modulates biofilm morphogenesis_, in Biofilm, May 3, 2020 (co-first author)
 
-[4] {\bf Y. Zhang} and K. L. Shepard, ``{\it A 0.6-mm$^2$ powering and data telemetry system compatible with ultrasound B-mode imaging for freely moving biomedical sensor systems}'', Custom Integrated Circuit Conference, April 16, 2019\\[-15pt]
+1. **Y. Zhang** and K. L. Shepard, _A 0.6-mm$^2$ powering and data telemetry system compatible with ultrasound B-mode imaging for freely moving biomedical sensor systems_, in 2019 Custom Integrated Circuit Conference, April 16, 2019
 
-H. Li et al., "Energy-Efficient CMOS Humidity Sensors Using Adaptive Range-Shift Zoom CDC and Power-Aware Floating Inverter Amplifier Array," in IEEE Journal of Solid-State Circuits, vol. 56, no. 12, pp. 3560-3572, Dec. 2021, doi: 10.1109/JSSC.2021.3114189.
+1. H. Li, Z. Tan, Y. Bao, H. Xiao, H. Zhang, K. Du, L. Shen, J. Ru, **Y. Zhang**, L. Ye, and R. Huang, _Energy-Efficient CMOS Humidity Sensors Using Adaptive Range-Shift Zoom CDC and Power-Aware Floating Inverter Amplifier Array_, in IEEE Journal of Solid-State Circuits, vol. 56, no. 12, pp. 3560-3572, Dec. 2021
 
 Zhixuan Wang, Ying Liu, Peng Zhou, Zhichao Tan, Haitao Fan, {\bf Yihan Zhang}, Linxiao Shen, Jiayoon Ru, Yangyuan Wang, Le Ye and Ru Huang, ``{\it A 148-nW Reconfigurable Event-Driven Intelligent Wake-Up System for AIoT Nodes Using an Asynchronous Pulse-Based Feature Extractor and a Convolutional Neural Network}''
 
