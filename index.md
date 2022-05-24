@@ -29,12 +29,12 @@ Placeholder
 **Augmented Ultrasonography with Implanted CMOS Electronic Motes**,
 in _[2019 Custom Integrated Circuit Conference](https://ieeexplore.ieee.org/abstract/document/8780205)_
 
-A brand-new medical application enabled by ultra-low power integrated circuit design.
+— Extending B-mode ultrasonography's view with sub-nW electronic implants.
 
 **Project Highlights**
-- 57 pW static power consumption when used as a standalone device to harvest energy from B-mode medical ultrasound
-- Modified imaging process with data acquisition scripts allows data transmission native to how ultrasonography is traditionally performed
-- Parallel operation of multiple implants using B-mode imaging's spatial polling mechanism
+- 57 pW static power consumption to operate with harvested energy from B-mode medical ultrasound
+- Compatible with B-mode ultrasonography with slight modifications for data telemetry
+- Simultaneous operation of multiple implants thanks to B-mode's spatial polling mechanism
 - _In vivo_ verification with fully packaged devices implanted in mice
 
 <details markdown="1">
