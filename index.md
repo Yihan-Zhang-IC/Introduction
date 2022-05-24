@@ -2,6 +2,8 @@
 
 I am Yihan Zhang, an integrated circuit (IC) engineer works in [academia](https://scholar.google.com/citations?user=WfKytL8AAAAJ&hl=en), focusing on multidisciplinary projects. 
 
+<hr style="boarder:2px solid gray">
+
 ## Education Background
 
 **Bachelor of Engineering**, Microelectronics, [Tsinghua University](https://www.tsinghua.edu.cn), 2009 - 2013
@@ -16,6 +18,8 @@ I am Yihan Zhang, an integrated circuit (IC) engineer works in [academia](https:
 - Focusing on low power, miniaturized circuits and their applications in bioelectronics
 - ... and be one of the few people who read my Ph. D. [thesis](https://academiccommons.columbia.edu/doi/10.7916/d8-dbt7-zc49/download)
 
+<hr style="boarder:2px solid gray">
+
 ## Featured Publications
 
 ### Augmented Ultrasonography with Implanted CMOS Electronic Motes
@@ -25,7 +29,10 @@ _in Nature Communications, accepted, to appear soon, and [2019 Custom Integrated
 <summary>More details</summary>
 <br>
 - Details to come, once the Nature Communications paper is in.
+<br>
 </details>
+
+---
 
 ### Sub-nW fully integrated pH sensor
 _in [Symposium on VLSI Circuits, 2020](https://ieeexplore.ieee.org/abstract/document/9163023)_
