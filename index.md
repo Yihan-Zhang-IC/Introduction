@@ -2,7 +2,9 @@
 
 ## Research Focus
 
-
+```
+Placeholder
+```
 
 <hr style="height:3px">
 
@@ -27,6 +29,13 @@
 **Augmented Ultrasonography with Implanted CMOS Electronic Motes**,
 in _[2019 Custom Integrated Circuit Conference](https://ieeexplore.ieee.org/abstract/document/8780205)_
 
+```
+A brand-new medical application enabled by ultra-low power integrated circuit design
+```
+
+**Project Highlights**
+- 180 nm technology
+
 <details markdown="1">
 <summary>More details</summary>
 ... to come
@@ -40,28 +49,18 @@ in _[2019 Custom Integrated Circuit Conference](https://ieeexplore.ieee.org/abst
 
 - A full stack engineering 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Skills
 
-```markdown
-Syntax highlighted code block
+I call myself a full-stack engineer.
+And the stack builds from device fabrication, through hardware design, all the way up to software design.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
+- **Computer-Aided Design Tools for Hardware**: Cadence Virtuoso, Cadence Innovus, Cadence Genus, Synopsys SiliconSmart, Synopsys Design Compiler, Synopsys Library Compiler, Mentor Graphics ModelSim, Xilinx Vivado (ISE), Verilator, Cadence Allegro, Altium Designer
+- **Hardware Description Language**: Verilog, System Verilog
+- **Device Fabrication**: Photolithography, electron beam deposition, thermal deposition, chemical etching
+- **Semiconductor Packaging**: Dicing, flip-chip packaging, wirebonding
+- **Selected Programming and Scripting Language**: C, C\#, C++, Python, Java, Rust, Swift, Lisp, SKILL, LaTeX, GLSL, Matlab, Lua, JSON, YAML, TOML, HTML, CSS, shell (bash, zsh, csh, etc.)
+- **Software Frameworks**: OpenGL, OpenCV, Qt, XNA, Unity
+- **Language**: Chinese (Mandarin) and English
 
 ## Publications
 
@@ -99,19 +98,6 @@ Also available at [my Google Scholar page](https://scholar.google.com/citations?
 
 1. H. Cai, C. Zhou, **Y. Zhang**, Y. Yang, T. Ren, C. Guo, and J. Liu, "[SAW Based Mass-Loading Biosensor for DNA Detection](https://ieeexplore.ieee.org/abstract/document/6628122)", in _2013 IEEE International Conference of Electron Devices and Solid-State Circuits_, Jun. 3, 2013
 
-
-## Skills
-
-I call myself a full-stack engineer.
-And the stack builds from device fabrication, through hardware design, all the way up to software design.
-
-- **Computer-Aided Design Tools for Hardware**: Cadence Virtuoso, Cadence Innovus, Cadence Genus, Synopsys SiliconSmart, Synopsys Design Compiler, Synopsys Library Compiler, Mentor Graphics ModelSim, Xilinx Vivado (ISE), Verilator, Cadence Allegro, Altium Designer
-- **Hardware Description Language**: Verilog, System Verilog
-- **Device Fabrication**: Photolithography, electron beam deposition, thermal deposition, chemical etching
-- **Semiconductor Packaging**: Dicing, flip-chip packaging, wirebonding
-- **Selected Programming and Scripting Language**: C, C\#, C++, Python, Java, Rust, Swift, Lisp, SKILL, LaTeX, GLSL, Matlab, Lua, JSON, YAML, TOML, HTML, CSS, shell (bash, zsh, csh, etc.)
-- **Software Frameworks**: OpenGL, OpenCV, Qt, XNA, Unity
-- **Language**: Mandarin Chinese and English
 
 ## About This Page
 
