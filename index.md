@@ -62,9 +62,6 @@ Syntax highlighted code block
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Shironofenny/PublicPage/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ## Publications
 
@@ -105,7 +102,10 @@ Also available at [my Google Scholar page](https://scholar.google.com/citations?
 
 ## Skills
 
-- **Computer-Aided Design Tools for Hardware**: Cadence Virtuoso, Cadence Innovus, Cadence Genus, Synopsys SiliconSmart, Synopsys Design Compiler (Design Vision), Synopsys Library Compiler, Mentor Graphics ModelSim, Xilinx Vivado (ISE), Cadence Allegro, Altium Designer
+I call myself a full-stack engineer.
+And the stack builds from device fabrication, through hardware design, all the way up to software design.
+
+- **Computer-Aided Design Tools for Hardware**: Cadence Virtuoso, Cadence Innovus, Cadence Genus, Synopsys SiliconSmart, Synopsys Design Compiler, Synopsys Library Compiler, Mentor Graphics ModelSim, Xilinx Vivado (ISE), Verilator, Cadence Allegro, Altium Designer
 - **Hardware Description Language**: Verilog, System Verilog
 - **Device Fabrication**: Photolithography, electron beam deposition, thermal deposition, chemical etching
 - **Semiconductor Packaging**: Dicing, flip-chip packaging, wirebonding
