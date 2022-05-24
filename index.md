@@ -19,13 +19,18 @@ I am Yihan Zhang, an integrated circuit (IC) engineer works in [academia](https:
 ## Featured Publications
 
 ### Augmented Ultrasonography with Implanted CMOS Electronic Motes
-
-_in Nature Communications, accepted, to appear soon, and Custom Integrated Circuit Conference 2019_
+_in Nature Communications, accepted, to appear soon, and [2019 Custom Integrated Circuit Conference](https://ieeexplore.ieee.org/abstract/document/8780205)_
 
 <details markdown="1">
 <summary>More details</summary>
-- Details to come, once the paper is in.
+<br>
+- Details to come, once the Nature Communications paper is in.
 </details>
+
+### Sub-nW fully integrated pH sensor
+_in [Symposium on VLSI Circuits, 2020](https://ieeexplore.ieee.org/abstract/document/9163023)_
+
+- 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
