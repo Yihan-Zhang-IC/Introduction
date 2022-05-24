@@ -37,7 +37,7 @@ _in [2019 Custom Integrated Circuit Conference](https://ieeexplore.ieee.org/abst
 
 ---
 
-**Sub-nW fully integrated pH sensor**, _in [Symposium on VLSI Circuits, 2020](https://ieeexplore.ieee.org/abstract/document/9163023)_
+**Sub-nW fully integrated pH sensor**, _in [2020 IEEE Symposium on VLSI Circuits](https://ieeexplore.ieee.org/abstract/document/9163023)_
 
 - A full stack engineering 
 
@@ -69,27 +69,23 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ## Publications
 
-1. **Y. Zhang**, C. Xue, X. Wang, T. Liu, J. Gao, P. Chen, J. Liu, L. Sun, L. Shen, J. Ru, L. Ye, and R. Huang, "[Single-mode 6T CMOS SRAM macros with keeper-loading-free peripherals and row-separate dynamic body bias achieving 2.53fW/bit leakage for AIoT sensing platforms](https://ieeexplore.ieee.org/document/9731573)," in _IEEE International Solid-State Circuit Conference_, Feb 20, 2022
+1. **Y. Zhang**, C. Xue, X. Wang, T. Liu, J. Gao, P. Chen, J. Liu, L. Sun, L. Shen, J. Ru, L. Ye, and R. Huang, "[Single-Mode 6T CMOS SRAM Macros with Keeper-Loading-Free Peripherals and Row-Separate Dynamic Body Bias Achieving 2.53fW/bit Leakage for AIoT Sensing Platforms](https://ieeexplore.ieee.org/document/9731573)," in _IEEE International Solid-State Circuit Conference_, Feb. 20, 2022
 
 1. Z. Wang, Y. Liu, P. Zhou, Z. Tan, H. Fan, **Y. Zhang**, L. Shen, J. Ru, Y. Wang, L. Ye and R. Huang, "[A 148-nW Reconfigurable Event-Driven Intelligent Wake-Up System for AIoT Nodes Using an Asynchronous Pulse-Based Feature Extractor and a Convolutional Neural Network](https://ieeexplore.ieee.org/document/9552498)," in _IEEE Journal of Solid-State Circuits_, vol. 56, no. 11, pp. 3274-3288, Nov. 2021
 
 1. H. Li, Z. Tan, Y. Bao, H. Xiao, H. Zhang, K. Du, L. Shen, J. Ru, **Y. Zhang**, L. Ye, and R. Huang, "[Energy-Efficient CMOS Humidity Sensors Using Adaptive Range-Shift Zoom CDC and Power-Aware Floating Inverter Amplifier Array](https://ieeexplore.ieee.org/document/9582620)," in IEEE Journal of Solid-State Circuits, vol. 56, no. 12, pp. 3560-3572, Dec. 2021
 
-1. **Y. Zhang**, F. A. Cardoso, and K. L. Shepard, "[A 0.72 nW, 1 sample/s fully integrated pH sensor with 65.8 LSB/pH sensitivity](https://ieeexplore.ieee.org/document/9163023)," in IEEE VLSI Symposium on Circuits, June 15, 2020
+1. Z. Wang, L. Ye, Y. Liu, P. Zhou, Z. Tan, H. Fan, **Y. Zhang**, J. Ru, Y. Wang, R. Huang, "[A 148nW general-purpose event-driven intelligent wake-up chip for AIoT devices using asynchronous spike-based feature extractor and convolutional neural network](https://ieeexplore.ieee.org/document/9365816)," in _2021 IEEE International Solid-State Circuits Conference_, pp. 436-438, Feb. 13, 2021
 
-1. <u>W-C. Cornell</u>, **<u>Y. Zhang</u>**, A. Bendebury, A. J. W. Hartel, K. L. Shepard, and L. E. P. Dietrich, "[Phenazine oxidation by a distal electrode modulates biofilm morphogenesis]()," in Biofilm, May 3, 2020 (co-first author)
+1. H. Li, Z. Tan, Y. Bao, H. Xiao, H. Zhang, K. Du, **Y. Zhang**, L. Ye, R. Huang, "[A 1.5μW 0.135pJ·%RH<sup>2</sup> CMOS Humidity Sensor Using Adaptive Range-Shift Zoom CDC and Power-Aware Floating Inverter Amplifier Array](https://ieeexplore.ieee.org/document/9365931)," in _2021 IEEE International Solid-State Circuits Conference_, pp. 72-74, Feb. 13, 2021
 
-1. **Y. Zhang** and K. L. Shepard, _A 0.6-mm$^2$ powering and data telemetry system compatible with ultrasound B-mode imaging for freely moving biomedical sensor systems_, in 2019 Custom Integrated Circuit Conference, April 16, 2019
+1. **Y. Zhang**, F. A. Cardoso, and K. L. Shepard, "[A 0.72 nW, 1 Sample/s Fully Integrated pH Sensor with 65.8 LSB/pH Sensitivity](https://ieeexplore.ieee.org/document/9163023)," in _2020 IEEE Symposium on VLSI Circuits_, Jun. 15, 2020
 
-1. Z. Wang, L. Ye, Y. Liu, P. Zhou, Z. Tan, H. Fan, {\bf Y. Zhang}, J. Ru, Y. Wang, R. Huang, ``{\it A 148nW general-purpose event-driven intelligent wake-up chip for AIoT devices using asynchronous spike-based feature extractor and convolutional neural network}'', 2021 IEEE International Solid-State Circuits Conference.
+1. <u>W-C. Cornell</u>, **<u>Y. Zhang</u>**, A. Bendebury, A. J. W. Hartel, K. L. Shepard, and L. E. P. Dietrich, "[Phenazine Oxidation by a Distal Electrode Modulates Biofilm Morphogenesis]()," in _Biofilm_, May 3, 2020 (co-first author)
 
-1. H. Li, Z. Tan, Y. Bao, H. Xiao, H. Zhang, K. Du, {\bf Y. Zhang}, L. Ye, R. Huang, ``{\it A 1.5μW 0.135pJ$\cdot$\%RH$^2$ CMOS humidity sensor using adaptive range-shift zoom CDC and power-aware floating inverter amplifier array}'', 2021 IEEE International Solid- State Circuits Conference.
+1. C. Shi, T. Costa, J. Elloian, **Y. Zhang**, K. L. Shepard, "[A 0.065-mm$^3$ monolithically-integrated ultrasonic wireless sensing mote for real-time physiological temperature monitoring]()," in _IEEE Transactions on Biomedical Circuits and Systems_, Feb. 3, 2020
 
-1. Z. Wang, L. Ye, Y. Liu, P. Zhou, Z. Tan, H. Fan, {\bf Y. Zhang}, J. Ru, Y. Wang, R. Huang, ``{\it A 148nW general-purpose event-driven intelligent wake-up chip for AIoT devices using asynchronous spike-based feature extractor and convolutional neural network}'', 2021 IEEE International Solid-State Circuits Conference.
-
-1. H. Li, Z. Tan, Y. Bao, H. Xiao, H. Zhang, K. Du, {\bf Y. Zhang}, L. Ye, R. Huang, ``{\it A 1.5μW 0.135pJ$\cdot$\%RH$^2$ CMOS humidity sensor using adaptive range-shift zoom CDC and power-aware floating inverter amplifier array}'', 2021 IEEE International Solid- State Circuits Conference.
-
-1. C. Shi, T. Costa, J. Elloian, {\bf Y. Zhang}, K. L. Shepard, ``{\it A 0.065-mm$^3$ monolithically-integrated ultrasonic wireless sensing mote for real-time physiological temperature monitoring}'', IEEE Transactions on Biomedical Circuits and Systems, February 3, 2020\\[-15pt]
+1. **Y. Zhang** and K. L. Shepard, "[A 0.6-mm<sup>2</sup> Powering and Data Telemetry System Compatible with Ultrasound B-Mode Imaging for Freely Moving Biomedical Sensor Systems]()," in _2019 Custom Integrated Circuit Conference_, Apr. 16, 2019
 
 1. H. Sakhtah, L. Koyama, {\bf Y. Zhang}, D. K. Moralesa, B. L. Fields, A. Price-Whelan, D. A. Hogan, K. L. Shepard, and L. E. P. Dietrich, "[The Pseudomonas aeruginosa efflux pump MexGHIOpmD transports a natural phenazine that controls gene expression and biofilm development]()," Proceedings of the National Academy of Sciences, June 6, 2016
 
