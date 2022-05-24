@@ -21,7 +21,9 @@
         {% endif %}
 
         {% if site.author_photo %}
-          <img src="{{site.author_photo | relative_url}}" alt="author" />
+          <br>
+          <img src="{{site.author_photo | relative_url}}" alt="author" width="180" height="180" />
+          <br><br>
         {% endif %}
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
