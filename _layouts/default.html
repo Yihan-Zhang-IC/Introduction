@@ -20,6 +20,10 @@
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
 
+        {% if site.author_photo %}
+          <img src="{{site.author_photo | relative_url}}" alt="author" />
+        {% endif %}
+
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
         {% if site.github.is_project_page %}
