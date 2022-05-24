@@ -25,7 +25,7 @@ My [Google Scholar page](https://scholar.google.com/citations?user=WfKytL8AAAAJ&
 
 ## Featured Publications
 
-### Augmented Ultrasonography with Implanted CMOS Electronic Motes
+**Augmented Ultrasonography with Implanted CMOS Electronic Motes**
 _in [2019 Custom Integrated Circuit Conference](https://ieeexplore.ieee.org/abstract/document/8780205)_
 
 <details markdown="1">
@@ -35,10 +35,10 @@ _in [2019 Custom Integrated Circuit Conference](https://ieeexplore.ieee.org/abst
 <br>
 </details>
 
+<br>
 ---
 
-### Sub-nW fully integrated pH sensor
-_in [Symposium on VLSI Circuits, 2020](https://ieeexplore.ieee.org/abstract/document/9163023)_
+**Sub-nW fully integrated pH sensor** _in [Symposium on VLSI Circuits, 2020](https://ieeexplore.ieee.org/abstract/document/9163023)_
 
 - A full stack engineering 
 
