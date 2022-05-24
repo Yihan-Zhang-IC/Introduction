@@ -1,4 +1,4 @@
-## About Myself
+## Research Focus
 
 I am Yihan Zhang, an integrated circuit (IC) engineer works in [academia](https://scholar.google.com/citations?user=WfKytL8AAAAJ&hl=en), focusing on multidisciplinary projects. 
 
