@@ -16,7 +16,14 @@ I am Yihan Zhang, an integrated circuit (IC) engineer works in [academia](https:
 - Focusing on low power, miniaturized circuits and their applications in bioelectronics
 - ... and be one of the few people who read my Ph. D. [thesis](https://academiccommons.columbia.edu/doi/10.7916/d8-dbt7-zc49/download)
 
-### Markdown
+## Featured Publications
+
+### Augmented Ultrasonography with Implanted CMOS Electronic Motes
+<details markdown="1">
+<summary>More details</summary>
+- Test point 1
+- Test point 2
+</details>
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
