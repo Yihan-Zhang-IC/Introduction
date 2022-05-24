@@ -5,8 +5,8 @@ I am Yihan Zhang, an integrated circuit (IC) engineer works in [academia](https:
 ## Education Background
 
 **Bachelor of Engineering**, Microelectronics, [Tsinghua University](https://www.tsinghua.edu.cn), 2009 - 2013
-- The program was designed to provide a science-engineering track, where I studied physics from 2009 to 2011, and microelectronics from 2011 to 2013.
-- Received undergraduate thesis excellency award.
+- A program offered by both the School of Science and the School of Information Technology, with the first two years in the Department of Physics
+- Received undergraduate thesis excellency award
 
 **Master of Science**, Mechanical Engineering, [Columbia University](https://www.columbia.edu), 2013 - 2014
 
@@ -30,7 +30,7 @@ _in Nature Communications, accepted, to appear soon, and [2019 Custom Integrated
 ### Sub-nW fully integrated pH sensor
 _in [Symposium on VLSI Circuits, 2020](https://ieeexplore.ieee.org/abstract/document/9163023)_
 
-- 
+- A full stack engineering 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
