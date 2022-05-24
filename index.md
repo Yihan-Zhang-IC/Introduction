@@ -1,10 +1,10 @@
-<hr style="boarder:5px solid gray"></hr>
+<hr style="boarder: 5px solid gray">
 
 ## Research Focus
 
 I am Yihan Zhang, an integrated circuit (IC) engineer works in [academia](https://scholar.google.com/citations?user=WfKytL8AAAAJ&hl=en), focusing on multidisciplinary projects. 
 
-<hr style="boarder:5px solid gray"></hr>
+<hr style="boarder: 5px solid gray"> </hr>
 
 ## Education Background
 
@@ -20,12 +20,12 @@ I am Yihan Zhang, an integrated circuit (IC) engineer works in [academia](https:
 - Focusing on low power, miniaturized circuits and their applications in bioelectronics
 - ... and be one of the few people who read my Ph. D. [thesis](https://academiccommons.columbia.edu/doi/10.7916/d8-dbt7-zc49/download)
 
-<hr style="boarder:5px solid gray"></hr>
+<hr style="boarder: 5px solid gray"> </hr>
 
 ## Featured Publications
 
 ### Augmented Ultrasonography with Implanted CMOS Electronic Motes
-_in Nature Communications, accepted, to appear soon, and [2019 Custom Integrated Circuit Conference](https://ieeexplore.ieee.org/abstract/document/8780205)_
+_in [2019 Custom Integrated Circuit Conference](https://ieeexplore.ieee.org/abstract/document/8780205)_
 
 <details markdown="1">
 <summary>More details</summary>
