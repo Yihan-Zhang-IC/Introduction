@@ -20,7 +20,7 @@ I am Yihan Zhang, an integrated circuit (IC) engineer works in [academia](https:
 - Focusing on low power, miniaturized circuits and their applications in bioelectronics
 - ... and be one of the few people who read my Ph. D. [thesis](https://academiccommons.columbia.edu/doi/10.7916/d8-dbt7-zc49/download)
 
-<hr style="border: 2px solid gray">
+<hr style="height: 2px solid gray">
 
 ## Featured Publications
 
