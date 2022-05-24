@@ -1,8 +1,20 @@
-## Play with some initial changes
+## About Myself
 
-You can use the [editor on GitHub](https://github.com/Shironofenny/PublicPage/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I am Yihan Zhang, an integrated circuit (IC) engineer works in [academia](https://scholar.google.com/citations?user=WfKytL8AAAAJ&hl=en), focusing on multidisciplinary projects. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Education Background
+
+**Bachelor of Engineering**, Microelectronics, [Tsinghua University](https://www.tsinghua.edu.cn), 2009 - 2013
+- The program was designed to provide a science-engineering track, where I studied physics from 2009 to 2011, and microelectronics from 2011 to 2013.
+- Received undergraduate thesis excellency award.
+
+**Master of Science**, Mechanical Engineering, [Columbia University](https://www.columbia.edu), 2013 - 2014
+
+**Doctor of Philosophy**, Electrical Engineering, [Columbia University](https://www.columbia.edu), 2014 - 2020
+- Ph. D. advisor: [Kenneth L. Shepard](https://bioee.ee.columbia.edu/people/ken-shepard)
+- Worked on various projects focusing on bioelectronics, including medical ultrasound, microbiology, pH monitoring, etc.
+- Focusing on low power, miniaturized circuits and their applications in bioelectronics
+- ... and be one of the few people who read my Ph. D. [thesis](https://academiccommons.columbia.edu/doi/10.7916/d8-dbt7-zc49/download)
 
 ### Markdown
 
@@ -35,3 +47,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+## About This Page
+
+
