@@ -1,10 +1,11 @@
-<hr style="border: 2px solid gray">
+<hr style="height:3px">
 
 ## Research Focus
 
-I am Yihan Zhang, an integrated circuit (IC) engineer works in [academia](https://scholar.google.com/citations?user=WfKytL8AAAAJ&hl=en), focusing on multidisciplinary projects. 
 
-<hr style="border: 2px solid gray">
+My [Google Scholar page](https://scholar.google.com/citations?user=WfKytL8AAAAJ&hl=en).
+
+<hr style="height:3px">
 
 ## Education Background
 
@@ -18,9 +19,9 @@ I am Yihan Zhang, an integrated circuit (IC) engineer works in [academia](https:
 - Ph. D. advisor: [Kenneth L. Shepard](https://bioee.ee.columbia.edu/people/ken-shepard)
 - Worked on various projects focusing on bioelectronics, including medical ultrasound, microbiology, pH monitoring, etc.
 - Focusing on low power, miniaturized circuits and their applications in bioelectronics
-- ... and be one of the few people who read my Ph. D. [thesis](https://academiccommons.columbia.edu/doi/10.7916/d8-dbt7-zc49/download)
+- ... and be one of the few people who read my [Ph. D. thesis](https://academiccommons.columbia.edu/doi/10.7916/d8-dbt7-zc49/download)
 
-<hr style="height:5px">
+<hr style="height:3px">
 
 ## Featured Publications
 
