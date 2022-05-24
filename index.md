@@ -109,7 +109,7 @@ And the stack builds from device fabrication, through hardware design, all the w
 - **Hardware Description Language**: Verilog, System Verilog
 - **Device Fabrication**: Photolithography, electron beam deposition, thermal deposition, chemical etching
 - **Semiconductor Packaging**: Dicing, flip-chip packaging, wirebonding
-- **Selected Programming and Scripting Language**: C, C\#, C++, Python, Java, Rust, Swift, Lisp, SKILL, LaTeX, GLSL, Bash, Matlab, Lua, JSON, YAML, HTML, CSS, shell (bash, zsh, csh, etc.)
+- **Selected Programming and Scripting Language**: C, C\#, C++, Python, Java, Rust, Swift, Lisp, SKILL, LaTeX, GLSL, Matlab, Lua, JSON, YAML, TOML, HTML, CSS, shell (bash, zsh, csh, etc.)
 - **Software Frameworks**: OpenGL, OpenCV, Qt, XNA, Unity
 - **Language**: Mandarin Chinese and English
 
