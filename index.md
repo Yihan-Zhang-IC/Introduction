@@ -1,10 +1,10 @@
-<hr style="border: 5px solid gray">
+<hr style="border: 2px solid gray">
 
 ## Research Focus
 
 I am Yihan Zhang, an integrated circuit (IC) engineer works in [academia](https://scholar.google.com/citations?user=WfKytL8AAAAJ&hl=en), focusing on multidisciplinary projects. 
 
-<hr style="border: 5px solid gray">
+<hr style="border: 2px solid gray">
 
 ## Education Background
 
@@ -20,7 +20,7 @@ I am Yihan Zhang, an integrated circuit (IC) engineer works in [academia](https:
 - Focusing on low power, miniaturized circuits and their applications in bioelectronics
 - ... and be one of the few people who read my Ph. D. [thesis](https://academiccommons.columbia.edu/doi/10.7916/d8-dbt7-zc49/download)
 
-<hr style="border: 5px solid gray">
+<hr style="border: 2px solid gray">
 
 ## Featured Publications
 
