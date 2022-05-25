@@ -30,10 +30,10 @@ in _[2019 Custom Integrated Circuit Conference](https://ieeexplore.ieee.org/abst
 <div style="text-align: right">— Extending B-mode ultrasonography's view with sub-nW electronic implants.</div>
 
 **Project Highlights**
-    * 57 pW static power consumption to operate with harvested energy from B-mode medical ultrasound
-    * Compatible with B-mode ultrasonography with slight modifications for data telemetry
-    * Simultaneous operation of multiple implants thanks to B-mode's spatial polling mechanism
-    * _In vivo_ verification with fully packaged devices implanted in mice
+* 57 pW static power consumption to operate with harvested energy from B-mode medical ultrasound
+* Compatible with B-mode ultrasonography with slight modifications for data telemetry
+* Simultaneous operation of multiple implants thanks to B-mode's spatial polling mechanism
+* _In vivo_ verification with fully packaged devices implanted in mice
 
 <details markdown="1">
 <summary>More details</summary>
