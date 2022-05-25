@@ -2,9 +2,7 @@
 
 ## Research Focus
 
-```
-Placeholder
-```
+My primary research focus involves building 
 
 <hr style="height:3px">
 
@@ -29,7 +27,7 @@ Placeholder
 **Augmented Ultrasonography with Implanted CMOS Electronic Motes**,
 in _[2019 Custom Integrated Circuit Conference](https://ieeexplore.ieee.org/abstract/document/8780205)_
 
-— Extending B-mode ultrasonography's view with sub-nW electronic implants.
+<div style="text-align: right">— Extending B-mode ultrasonography's view with sub-nW electronic implants.</div>
 
 **Project Highlights**
 - 57 pW static power consumption to operate with harvested energy from B-mode medical ultrasound
@@ -46,7 +44,9 @@ in _[2019 Custom Integrated Circuit Conference](https://ieeexplore.ieee.org/abst
 
 ---
 
-**Sub-nW fully integrated pH sensor**, in _[2020 IEEE Symposium on VLSI Circuits](https://ieeexplore.ieee.org/abstract/document/9163023)_
+**Sub-nW Fully Integrated pH Sensor**, in _[2020 IEEE Symposium on VLSI Circuits](https://ieeexplore.ieee.org/abstract/document/9163023)_
+
+— From chemical signal to digital signal, within 1 nW.
 
 - A full stack engineering 
 
