@@ -31,6 +31,8 @@ in <a href="https://ieeexplore.ieee.org/abstract/document/8780205"><i>2019 Custo
 
 <div style="text-align: right">— Extending B-mode ultrasonography's view with sub-nW electronic implants.</div><br>
 
+![Augmented Ultrasonography, its concept](assets/aug_ultrasound.png)
+
 **Project Highlights**
 * 57 pW static power consumption to operate with harvested energy from B-mode medical ultrasound
 * Compatible with B-mode ultrasonography with slight modifications for data telemetry
@@ -101,7 +103,7 @@ Also available at [my Google Scholar page](https://scholar.google.com/citations?
 
 1. Z. Wang, L. Ye, Y. Liu, P. Zhou, Z. Tan, H. Fan, **Y. Zhang**, J. Ru, Y. Wang, R. Huang, "[A 148nW general-purpose event-driven intelligent wake-up chip for AIoT devices using asynchronous spike-based feature extractor and convolutional neural network](https://ieeexplore.ieee.org/document/9365816)," in _2021 IEEE International Solid-State Circuits Conference (ISSCC)_, pp. 436-438, Feb. 13, 2021
 
-1. H. Li, Z. Tan, Y. Bao, H. Xiao, H. Zhang, K. Du, **Y. Zhang**, L. Ye, R. Huang, "[A 1.5μW 0.135pJ·%RH<sup>2</sup> CMOS Humidity Sensor Using Adaptive Range-Shift Zoom CDC and Power-Aware Floating Inverter Amplifier Array](https://ieeexplore.ieee.org/document/9365931)," in _2021 IEEE International Solid-State Circuits Conference (ISSCC)_, pp. 72-74, Feb. 13, 2021
+1. H. Li, Z. Tan, Y. Bao, H. Xiao, H. Zhang, K. Du, **Y. Zhang**, L. Ye, R. Huang, "[A 1.5μW 0.135pJ·%RH^2^ CMOS Humidity Sensor Using Adaptive Range-Shift Zoom CDC and Power-Aware Floating Inverter Amplifier Array](https://ieeexplore.ieee.org/document/9365931)," in _2021 IEEE International Solid-State Circuits Conference (ISSCC)_, pp. 72-74, Feb. 13, 2021
 
 1. **Y. Zhang**, F. A. Cardoso, and K. L. Shepard, "[A 0.72 nW, 1 Sample/s Fully Integrated pH Sensor with 65.8 LSB/pH Sensitivity](https://ieeexplore.ieee.org/document/9163023)," in _2020 IEEE Symposium on VLSI Circuits_, Jun. 15, 2020
 
