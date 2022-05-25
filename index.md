@@ -27,7 +27,7 @@ My primary research focus involves building
 ---
 
 <div><b>Augmented Ultrasonography with Implanted CMOS Electronic Motes</b>,
-in <a href="https://ieeexplore.ieee.org/abstract/document/8780205"><i>2019 Custom Integrated Circuit Conference</i></a>
+in <a href="https://ieeexplore.ieee.org/abstract/document/8780205"><i>2019 Custom Integrated Circuit Conference</i></a></div>
 
 <div style="text-align: right">— Extending B-mode ultrasonography's view with sub-nW electronic implants.</div><br>
 
