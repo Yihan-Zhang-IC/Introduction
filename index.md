@@ -26,13 +26,14 @@ My primary research focus involves building
 
 **Augmented Ultrasonography with Implanted CMOS Electronic Motes**,
 in _[2019 Custom Integrated Circuit Conference](https://ieeexplore.ieee.org/abstract/document/8780205)_
-    <div style="text-align: right">— Extending B-mode ultrasonography's view with sub-nW electronic implants.</div>
+
+<div style="text-align: right">— Extending B-mode ultrasonography's view with sub-nW electronic implants.</div>
 
 **Project Highlights**
-    - 57 pW static power consumption to operate with harvested energy from B-mode medical ultrasound
-    - Compatible with B-mode ultrasonography with slight modifications for data telemetry
-    - Simultaneous operation of multiple implants thanks to B-mode's spatial polling mechanism
-    - _In vivo_ verification with fully packaged devices implanted in mice
+    * 57 pW static power consumption to operate with harvested energy from B-mode medical ultrasound
+    * Compatible with B-mode ultrasonography with slight modifications for data telemetry
+    * Simultaneous operation of multiple implants thanks to B-mode's spatial polling mechanism
+    * _In vivo_ verification with fully packaged devices implanted in mice
 
 <details markdown="1">
 <summary>More details</summary>
@@ -44,10 +45,11 @@ in _[2019 Custom Integrated Circuit Conference](https://ieeexplore.ieee.org/abst
 ---
 
 **Sub-nW Fully Integrated pH Sensor**, in _[2020 IEEE Symposium on VLSI Circuits](https://ieeexplore.ieee.org/abstract/document/9163023)_
+    <div style="text-align: right">— From chemical signal to digital signal, within 1 nW.<div>
 
-— From chemical signal to digital signal, within 1 nW.
-
-- A full stack engineering 
+**Project Highlights**
+    - A full stack engineering
+    -
 
 <hr style="height:3px">
 
