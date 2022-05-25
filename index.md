@@ -26,10 +26,10 @@ My primary research focus involves building
 
 ---
 
-<div><b>Augmented Ultrasonography with Implanted CMOS Electronic Motes</b>,
+<div><strong>Augmented Ultrasonography with Implanted CMOS Electronic Motes</strong>,
 in <a href="https://ieeexplore.ieee.org/abstract/document/8780205"><i>2019 Custom Integrated Circuit Conference</i></a></div>
 
-<div style="text-align: right">— Extending B-mode ultrasonography's view with sub-nW electronic implants.</div><br>
+<div style="text-align: right">— Extending B-mode ultrasonography's view with sub-nW electronic implants.</div>
 
 **Project Highlights**
 * 57 pW static power consumption to operate with harvested energy from B-mode medical ultrasound
