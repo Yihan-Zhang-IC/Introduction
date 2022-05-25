@@ -52,7 +52,7 @@ in <a href="https://ieeexplore.ieee.org/abstract/document/8780205"><i>2019 Custo
 
 **Project Highlights**
 - A full stack engineering
--
+- Placeholder
 
 <hr style="height:3px">
 
