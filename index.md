@@ -48,7 +48,7 @@ in <a href="https://ieeexplore.ieee.org/abstract/document/8780205"><i>2019 Custo
 
 <div><strong>Sub-nW Fully Integrated pH Sensor</strong>, in <a href="https://ieeexplore.ieee.org/abstract/document/9163023"><i>2020 IEEE Symposium on VLSI Circuits</i></a></div>
 
-<div style="text-align: right">— From a chemical signal to digital interface, within 1 nW.</div></br>
+<div style="text-align: right">— From a chemical signal to digital interface, within 1 nW.</div><br>
 
 **Project Highlights**
 - A full stack engineering
