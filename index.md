@@ -56,7 +56,7 @@ in <a href="https://ieeexplore.ieee.org/abstract/document/8780205"><i>2019 Custo
 
 ---
 
-<div><strong>Low-Leakage, High-Speed SRAM Design</strong>
+<div><strong>Low-Leakage, High-Speed SRAM Design</strong>, in <a href="https://ieeexplore.ieee.org/document/9731573"><i>2022 IEEE International Solid-State Circuit Conference</i></a></div>
 
 <div style="text-align: right">— Expanding the amount we can remember under 1 nW.</div><br>
 
