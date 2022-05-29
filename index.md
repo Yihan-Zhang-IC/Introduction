@@ -52,6 +52,8 @@ in <a href="https://ieeexplore.ieee.org/abstract/document/8780205"><i>2019 Custo
 
 <div style="text-align: right">— From a chemical signal to digital interface, all in 0.72 nW.</div><br>
 
+![A sub-nW pH sensor](assets/pHSensor.gif)
+
 **Project Highlights**
 - Full-stack engineering effort from device fabrication to software design.
 - 65.8 LSB/pH from on-chip pH sensing site to digital data interface.
