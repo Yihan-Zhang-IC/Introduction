@@ -55,7 +55,7 @@ in <a href="https://ieeexplore.ieee.org/abstract/document/8780205"><i>2019 Custo
 ![A sub-nW pH sensor](assets/pHSensor.gif)
 
 **Project Highlights**
-- Full-stack engineering effort from device fabrication to software design.
+- Full-stack engineering efforts from device fabrication to software design.
 - 65.8 LSB/pH from on-chip pH sensing site to digital data interface.
 - Easy to use with a total of 8 pins: VDD, VSS, and 6 digital signal pins.
 - Designed with data acquisition software for easy, real-time pH monitoring.
