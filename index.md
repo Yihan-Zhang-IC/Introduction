@@ -81,24 +81,13 @@ in <a href="https://ieeexplore.ieee.org/abstract/document/8780205"><i>2019 Custo
 
 <hr style="height:3px">
 
-## Skills
-
-I call myself a full-stack engineer.
-And the stack builds from device fabrication, through hardware design, all the way up to software design.
-
-- **Computer-Aided Design Tools for Hardware**: Cadence Virtuoso, Cadence Innovus, Cadence Genus, Synopsys SiliconSmart, Synopsys Design Compiler, Synopsys Library Compiler, Mentor Graphics ModelSim, Xilinx Vivado (ISE), Verilator, Cadence Allegro, Altium Designer
-- **Hardware Description Language**: Verilog, System Verilog
-- **Device Fabrication**: Photolithography, electron beam deposition, thermal deposition, chemical etching
-- **Semiconductor Packaging**: Dicing, flip-chip packaging, wirebonding
-- **Selected Programming and Scripting Language**: C, C\#, C++, Python, Java, Rust, Swift, Lisp, SKILL, LaTeX, GLSL, Matlab, Lua, JSON, YAML, TOML, HTML, CSS, shell (bash, zsh, csh, etc.)
-- **Software Frameworks**: OpenGL, OpenCV, Qt, XNA, Unity
-- **Language**: Chinese (Mandarin) and English
-
-<hr style="height:3px">
-
 ## Publications
 
 Also available at [my Google Scholar page](https://scholar.google.com/citations?user=WfKytL8AAAAJ&hl=en).
+
+In reverse chronological order (as of June 2022):
+
+1. H. Zhang L. Shen, S. Zhang, H. Li, **Y. Zhang**, Z. Tan, R. Huang, and L. Ye, "[A 77μW 115dB-Dynamic-Range 586fA-Sensitivity Current-Domain Continuous-Time Zoom ADC with Pulse-Width-Modulated Resistor DAC and Background Offset Compensation Scheme](https://ieeexplore.ieee.org/document/9772794)," in _2022 IEEE Custom Integrated Circuits Conference (CICC)_, pp. 1-2, Apr. 24, 2022
 
 1. **Y. Zhang**, C. Xue, X. Wang, T. Liu, J. Gao, P. Chen, J. Liu, L. Sun, L. Shen, J. Ru, L. Ye, and R. Huang, "[Single-Mode 6T CMOS SRAM Macros with Keeper-Loading-Free Peripherals and Row-Separate Dynamic Body Bias Achieving 2.53fW/bit Leakage for AIoT Sensing Platforms](https://ieeexplore.ieee.org/document/9731573)," in _2022 IEEE International Solid-State Circuit Conference (ISSCC)_, pp. 184-186, Feb. 20, 2022
 
@@ -131,6 +120,21 @@ Also available at [my Google Scholar page](https://scholar.google.com/citations?
 1. H. Cai, Y. Yang, **Y. Zhang**, C. Zhou, C. Guo, J. Liu, and T. Ren, "[A High Sensitivity Mass-Loading Surface Acoustic Wave DNA Sensor](https://www.worldscientific.com/doi/abs/10.1142/S0217984914500560)," in _Modern Physics Letters B_, vol. 28, no. 7, Mar. 2014
 
 1. H. Cai, C. Zhou, **Y. Zhang**, Y. Yang, T. Ren, C. Guo, and J. Liu, "[SAW Based Mass-Loading Biosensor for DNA Detection](https://ieeexplore.ieee.org/abstract/document/6628122)", in _2013 IEEE International Conference of Electron Devices and Solid-State Circuits_, Jun. 3, 2013
+
+<hr style="height:3px">
+
+## Skills
+
+I call myself a full-stack engineer.
+And the stack builds from device fabrication, through hardware design, all the way up to software design.
+
+- **Computer-Aided Design Tools for Hardware**: Cadence Virtuoso, Cadence Innovus, Cadence Genus, Synopsys SiliconSmart, Synopsys Design Compiler, Synopsys Library Compiler, Mentor Graphics ModelSim, Xilinx Vivado (ISE), Verilator, Cadence Allegro, Altium Designer
+- **Hardware Description Language**: Verilog, System Verilog
+- **Device Fabrication**: Photolithography, electron beam deposition, thermal deposition, chemical etching
+- **Semiconductor Packaging**: Dicing, flip-chip packaging, wirebonding
+- **Selected Programming and Scripting Language**: C, C\#, C++, Python, Java, Rust, Swift, Lisp, SKILL, LaTeX, GLSL, Matlab, Lua, JSON, YAML, TOML, HTML, CSS, shell (bash, zsh, csh, etc.)
+- **Software Frameworks**: OpenGL, OpenCV, Qt, XNA, Unity
+- **Language**: Chinese (Mandarin) and English
 
 <hr style="height:3px">
 
