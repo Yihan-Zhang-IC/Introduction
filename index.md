@@ -18,7 +18,7 @@ My primary research focus involves building
 - Ph. D. advisor: [Kenneth L. Shepard](https://bioee.ee.columbia.edu/people/ken-shepard)
 - Worked on various projects focusing on bioelectronics, including medical ultrasound, microbiology, pH monitoring, etc.
 - Focusing on low power, miniaturized circuits and their applications in bioelectronics
-- ... and be one of the few people who read my [Ph. D. thesis](https://academiccommons.columbia.edu/doi/10.7916/d8-dbt7-zc49/download)
+- ... and be one of the few people who read my [Ph.D. thesis](https://academiccommons.columbia.edu/doi/10.7916/d8-dbt7-zc49/download)
 
 <hr style="height:3px">
 
@@ -87,7 +87,9 @@ Also available at [my Google Scholar page](https://scholar.google.com/citations?
 
 In reverse chronological order (as of June 2022):
 
-1. H. Zhang L. Shen, S. Zhang, H. Li, **Y. Zhang**, Z. Tan, R. Huang, and L. Ye, "[A 77μW 115dB-Dynamic-Range 586fA-Sensitivity Current-Domain Continuous-Time Zoom ADC with Pulse-Width-Modulated Resistor DAC and Background Offset Compensation Scheme](https://ieeexplore.ieee.org/document/9772794)," in _2022 IEEE Custom Integrated Circuits Conference (CICC)_, pp. 1-2, Apr. 24, 2022
+1. **Y. Zhang**, P. Muthuraman, V. Andino-Pavlovsky, I. Uguz, J. Elloian, and K. L. Shepard, "[Augmented Ultrasonography with Implanted CMOS Electronic Motes](https://www.nature.com/articles/s41467-022-31166-x)," in _Nature Communications_, **13** 3521, 2022.
+
+1. H. Zhang, L. Shen, S. Zhang, H. Li, **Y. Zhang**, Z. Tan, R. Huang, and L. Ye, "[A 77μW 115dB-Dynamic-Range 586fA-Sensitivity Current-Domain Continuous-Time Zoom ADC with Pulse-Width-Modulated Resistor DAC and Background Offset Compensation Scheme](https://ieeexplore.ieee.org/document/9772794)," in _2022 IEEE Custom Integrated Circuits Conference (CICC)_, pp. 1-2, Apr. 24, 2022.
 
 1. **Y. Zhang**, C. Xue, X. Wang, T. Liu, J. Gao, P. Chen, J. Liu, L. Sun, L. Shen, J. Ru, L. Ye, and R. Huang, "[Single-Mode 6T CMOS SRAM Macros with Keeper-Loading-Free Peripherals and Row-Separate Dynamic Body Bias Achieving 2.53fW/bit Leakage for AIoT Sensing Platforms](https://ieeexplore.ieee.org/document/9731573)," in _2022 IEEE International Solid-State Circuit Conference (ISSCC)_, pp. 184-186, Feb. 20, 2022
 
@@ -115,7 +117,7 @@ In reverse chronological order (as of June 2022):
 
 1. H. Sakhtah, L. Koyama, **Y. Zhang**, D. K. Moralesa, B. L. Fields, A. Price-Whelan, D. A. Hogan, K. L. Shepard, and L. E. P. Dietrich, "[The Pseudomonas aeruginosa efflux pump MexGHIOpmD transports a natural phenazine that controls gene expression and biofilm development](https://www.pnas.org/doi/suppl/10.1073/pnas.1600424113)," _Proceedings of the National Academy of Sciences (PNAS)_, vol. 113, no. 25, E3538-E3547, Jun. 6, 2016
 
-1. D. L. Bellin, H. Sakhtah, **Y. Zhang**, A. Price-Whelan, L. E. P. Dietrich, and K. L. Shepard, "[Electrochemical camera chip for simultaneous imaging of multiple metabolites in biofilms](https://www.nature.com/articles/ncomms10535?platform\u003doscar\u0026draft\u003djournal)," in _Nature Communications_, vol. 7, no. 1, pp. 1-10, Jan. 27, 2016
+1. D. L. Bellin, H. Sakhtah, **Y. Zhang**, A. Price-Whelan, L. E. P. Dietrich, and K. L. Shepard, "[Electrochemical camera chip for simultaneous imaging of multiple metabolites in biofilms](https://www.nature.com/articles/ncomms10535?platform\u003doscar\u0026draft\u003djournal)," in _Nature Communications_, **7** (1), 2016
 
 1. H. Cai, Y. Yang, **Y. Zhang**, C. Zhou, C. Guo, J. Liu, and T. Ren, "[A High Sensitivity Mass-Loading Surface Acoustic Wave DNA Sensor](https://www.worldscientific.com/doi/abs/10.1142/S0217984914500560)," in _Modern Physics Letters B_, vol. 28, no. 7, Mar. 2014
 
