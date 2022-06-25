@@ -1,8 +1,13 @@
 <hr style="height:3px">
 
-## Research Focus
+## My Research Motivation
 
-My primary research focus involves building 
+We are living in an age of innovation. 
+The [growth model](http://www.computer-architecture.org/textual/Moore-Cramming-More-Components-1965.pdf) predicted by Gorden E. Moore has become too expensive to maintain, driving the semiconductor industry to look for new ways to sustain its expansion.
+But to me, the ultimate motivation behind this expansion is to sustain what integrated circuits technologies has empowered us, the ability to acquire, organize, and process an increasing amount of information.
+Here I devote my research effort to the "more than Moore" way, bridging integrated circuit design with new applications.
+Specifically, I design low power circuits, typically in the sub-nW range, that uses energy that is previously thought unusable, to acquire information that was otherwise undetectable.
+I hope my work can inspire brand new applications of how integrated circuits can be used, and transform our specific ways of living.
 
 <hr style="height:3px">
 
@@ -15,7 +20,7 @@ My primary research focus involves building
 **Master of Science**, Mechanical Engineering, [Columbia University](https://www.columbia.edu), 2013 - 2014
 
 **Doctor of Philosophy**, Electrical Engineering, [Columbia University](https://www.columbia.edu), 2014 - 2020
-- Ph. D. advisor: [Kenneth L. Shepard](https://bioee.ee.columbia.edu/people/ken-shepard)
+- Ph.D. advisor: [Kenneth L. Shepard](https://bioee.ee.columbia.edu/people/ken-shepard)
 - Worked on various projects focusing on bioelectronics, including medical ultrasound, microbiology, pH monitoring, etc.
 - Focusing on low power, miniaturized circuits and their applications in bioelectronics
 - ... and be one of the few people who read my [Ph.D. thesis](https://academiccommons.columbia.edu/doi/10.7916/d8-dbt7-zc49/download)
@@ -27,20 +32,20 @@ My primary research focus involves building
 ---
 
 <div><strong>Augmented Ultrasonography with Implanted CMOS Electronic Motes</strong>,
-in <a href="https://ieeexplore.ieee.org/abstract/document/8780205"><i>2019 Custom Integrated Circuit Conference</i></a></div>
+in <a href="https://www.nature.com/articles/s41467-022-31166-x"><i>Nature Communications</i></a> and <a href="https://ieeexplore.ieee.org/abstract/document/8780205"><i>2019 Custom Integrated Circuit Conference</i></a></div>
 
 <div style="text-align: right">— Extending B-mode ultrasonography's view with sub-nW electronic implants.</div><br>
 
 ![Augmented Ultrasonography, its concept](assets/aug_ultrasound.png)
 
 **Project Highlights**
-* 57 pW static power consumption to operate with harvested energy from B-mode medical ultrasound
-* Compatible with B-mode ultrasonography with slight modifications for data telemetry
-* Simultaneous operation of multiple implants thanks to B-mode's spatial polling mechanism
-* _In vivo_ verification with fully packaged devices implanted in mice
+* A great showcase of how low power circuits bring new applications
+* Extremely low power to operate under medical B-mode ultrasound
+* Simultaneous, digital, bi-directional datalinks for multiple implants thanks to B-mode's spatial polling mechanism
+* _In vivo_ verification on mouse model
 
 <details markdown="1">
-<summary>More on this project</summary>
+<summary><b>Ideas behind this project</b></summary>
 ... to come
 </details>
 
@@ -76,8 +81,6 @@ in <a href="https://ieeexplore.ieee.org/abstract/document/8780205"><i>2019 Custo
 **Project Highlights**
 - A full stack engineering
 - Placeholder
-
----
 
 <hr style="height:3px">
 
