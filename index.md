@@ -3,8 +3,9 @@
 ## My Research Motivation
 
 We are living in an age of innovation. 
-The [growth model](http://www.computer-architecture.org/textual/Moore-Cramming-More-Components-1965.pdf) predicted by Gorden E. Moore has become too expensive to maintain, driving the semiconductor industry to look for new ways to sustain its expansion.
+The [growth model](http://www.computer-architecture.org/textual/Moore-Cramming-More-Components-1965.pdf) predicted by Gorden E. Moore has become too expensive to maintain, driving the semiconductor industry to look for paths that sustains its expansion.
 But to me, the ultimate motivation behind this expansion is to sustain what integrated circuits technologies has empowered us, the ability to acquire, organize, and process an increasing amount of information.
+
 Here I devote my research effort to the "more than Moore" way, bridging integrated circuit design with new applications.
 Specifically, I design low power circuits, typically in the sub-nW range, that uses energy that is previously thought unusable, to acquire information that was otherwise undetectable.
 I hope my work can inspire brand new applications of how integrated circuits can be used, and transform our specific ways of living.
