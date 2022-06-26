@@ -40,10 +40,10 @@ in <a href="https://www.nature.com/articles/s41467-022-31166-x"><i>Nature Commun
 ![Augmented Ultrasonography, its concept](assets/aug_ultrasound.png)
 
 **Project Highlights**
-* A great showcase of how low power circuits bring new applications
-* Extremely low power to operate under medical B-mode ultrasound
+* The proposed concept is implemented with custom-designed extremely low power integrated circuits (sub-nW regime)
 * Simultaneous, digital, bi-directional datalinks for multiple implants thanks to B-mode's spatial polling mechanism
-* _In vivo_ verification on mouse model
+* Multi-disciplinary engineering efforts including IC design, package design, image processing algorithm design, etc.
+* _In vivo_ verification with mouse
 
 <details markdown="1">
 <summary><b>Ideas behind this project</b></summary>
@@ -80,8 +80,7 @@ in <a href="https://www.nature.com/articles/s41467-022-31166-x"><i>Nature Commun
 <div style="text-align: right">— Exploring how much we can remember in the sub-nW regime.</div><br>
 
 **Project Highlights**
-- A full stack engineering
-- Placeholder
+- Placeholder, with more to come
 
 <hr style="height:3px">
 
