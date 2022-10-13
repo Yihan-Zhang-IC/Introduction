@@ -90,7 +90,11 @@ Also available at [my Google Scholar page](https://scholar.google.com/citations?
 
 In reverse chronological order (as of June 2022):
 
-1. **Y. Zhang**, P. Muthuraman, V. Andino-Pavlovsky, I. Uguz, J. Elloian, and K. L. Shepard, "[Augmented Ultrasonography with Implanted CMOS Electronic Motes](https://www.nature.com/articles/s41467-022-31166-x)," in _Nature Communications_, **13** 3521, 2022.
+1. **Y. Zhang**, P. Muthuraman, V. Andino-Pavlovsky, I. Uguz, J. Elloian, and K. L. Shepard, "[Augmented Ultrasonography with Implanted CMOS Electronic Motes](https://www.nature.com/articles/s41467-022-31166-x)," in _Nature Communications_, **13**, 3521, 2022.
+
+1. X. Xu, S. Ye, J. Gao, **Y. Zhang**, L. Shen, and L. Ye, "A 32-ppm/\textdegree C 0.9-nW/kHz Relaxation Oscillator with Event-Driven Architecture and Charge Reuse Technique," in _2022 International Symposium on Circuit and Systems (ISCAS)_, Jun. 1, 2022.
+
+1. C. Xue, **Y. Zhang\***, P. Chen, M. Zhu, T. Wu, M. Wu, Y. He, and L. Ye, "Reliability-Improved Read Circuit and Self-Terminating Write Circuit for STT-MRAM in 16 nm FinFET", in _2022 International Symposium on Circuit and Systems (ISCAS)_, May. 31, 2022. (corresponding author)
 
 1. H. Zhang, L. Shen, S. Zhang, H. Li, **Y. Zhang**, Z. Tan, R. Huang, and L. Ye, "[A 77μW 115dB-Dynamic-Range 586fA-Sensitivity Current-Domain Continuous-Time Zoom ADC with Pulse-Width-Modulated Resistor DAC and Background Offset Compensation Scheme](https://ieeexplore.ieee.org/document/9772794)," in _2022 IEEE Custom Integrated Circuits Conference (CICC)_, pp. 1-2, Apr. 24, 2022.
 
@@ -120,7 +124,7 @@ In reverse chronological order (as of June 2022):
 
 1. H. Sakhtah, L. Koyama, **Y. Zhang**, D. K. Moralesa, B. L. Fields, A. Price-Whelan, D. A. Hogan, K. L. Shepard, and L. E. P. Dietrich, "[The Pseudomonas aeruginosa efflux pump MexGHIOpmD transports a natural phenazine that controls gene expression and biofilm development](https://www.pnas.org/doi/suppl/10.1073/pnas.1600424113)," _Proceedings of the National Academy of Sciences (PNAS)_, vol. 113, no. 25, E3538-E3547, Jun. 6, 2016
 
-1. D. L. Bellin, H. Sakhtah, **Y. Zhang**, A. Price-Whelan, L. E. P. Dietrich, and K. L. Shepard, "[Electrochemical camera chip for simultaneous imaging of multiple metabolites in biofilms](https://www.nature.com/articles/ncomms10535?platform\u003doscar\u0026draft\u003djournal)," in _Nature Communications_, **7** (1), 2016
+1. D. L. Bellin, H. Sakhtah, **Y. Zhang**, A. Price-Whelan, L. E. P. Dietrich, and K. L. Shepard, "[Electrochemical camera chip for simultaneous imaging of multiple metabolites in biofilms](https://www.nature.com/articles/ncomms10535?platform\u003doscar\u0026draft\u003djournal)," in _Nature Communications_, **7**, 10535, 2016
 
 1. H. Cai, Y. Yang, **Y. Zhang**, C. Zhou, C. Guo, J. Liu, and T. Ren, "[A High Sensitivity Mass-Loading Surface Acoustic Wave DNA Sensor](https://www.worldscientific.com/doi/abs/10.1142/S0217984914500560)," in _Modern Physics Letters B_, vol. 28, no. 7, Mar. 2014
 
