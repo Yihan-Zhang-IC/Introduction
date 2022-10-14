@@ -108,6 +108,32 @@ img {
   width: 90%;
 }
 
+.gallery img {
+  height: 92px;
+  margin: 10px 0;
+  cursor: pointer;
+  display: block;
+  opacity: 0.5;
+}
+
+.gallery img:hover {
+  opacity: 1.0;
+}
+
+.gallery {
+  float: left;
+}
+
+.zoomshow image {
+  height: 400px;
+  transition: ease-in-out 2s;
+}
+
+.zoomshow {
+  float: right;
+  padding: 10px;
+}
+
 header {
   width:230px;
   float:left;
