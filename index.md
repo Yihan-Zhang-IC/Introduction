@@ -94,7 +94,7 @@ in <a href="https://www.nature.com/articles/s41467-022-31166-x"><i>Nature Commun
 </div>
 
 **Project Highlights**
-- Placeholder, with more to come
+- Placeholder, with more to change
 
 <hr style="height:3px">
 
