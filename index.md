@@ -81,7 +81,7 @@ in <a href="https://www.nature.com/articles/s41467-022-31166-x"><i>Nature Commun
 
 <div style="text-align: right">— Exploring how much we can remember in the sub-nW regime.</div><br>
 
-<div>
+<div class = "gallery-wrapper">
     <div class="gallery"> 
         <img src = "assets/A.jpg" alt="click here" onclick="switchImage(this)">
         <img src = "assets/B.jpg" alt="click here" onclick="switchImage(this)">
