@@ -87,7 +87,7 @@ in <a href="https://www.nature.com/articles/s41467-022-31166-x"><i>Nature Commun
         <img src = "assets/D.jpg" alt="click here" onclick="switchImage(this)">
     </div>
     <div class="zoomshow">
-        <div id="image_box" src = "assets/A.jpg" alt="click here">
+        <img id="image_box" src = "assets/A.jpg" alt="click here">
     </div>
 </div>
 
