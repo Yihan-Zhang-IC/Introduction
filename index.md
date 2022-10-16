@@ -34,6 +34,10 @@ I hope my work can inspire brand new applications of how integrated circuits can
 
 ---
 
+<!-- Initialization of all variables -->
+
+<!-- Actual texts starts from here -->
+
 <div><strong>Augmented Ultrasonography with Implanted CMOS Electronic Motes</strong>,
 in <a href="https://www.nature.com/articles/s41467-022-31166-x"><i>Nature Communications</i></a> and <a href="https://ieeexplore.ieee.org/abstract/document/8780205"><i>2019 Custom Integrated Circuit Conference</i></a></div>
 
@@ -81,16 +85,14 @@ in <a href="https://www.nature.com/articles/s41467-022-31166-x"><i>Nature Commun
 
 <div style="text-align: right">— Exploring how much we can remember in the sub-nW regime.</div><br>
 
-<div class = "gallery-wrapper">
-    <div class="gallery"> 
-        <img src = "assets/A.jpg" alt="click here" onclick="switchImage(this)">
-        <img src = "assets/B.jpg" alt="click here" onclick="switchImage(this)">
-        <img src = "assets/C.jpg" alt="click here" onclick="switchImage(this)">
-        <img src = "assets/D.jpg" alt="click here" onclick="switchImage(this)">
-    </div>
-    <div class="zoomshow">
-        <img id="image_box" src = "assets/A.jpg" alt="click here">
-    </div>
+<div id="slider5"> 
+    <figure>
+        <img src = "assets/A.jpg" alt="click here">
+        <img src = "assets/B.jpg" alt="click here">
+        <img src = "assets/C.jpg" alt="click here">
+        <img src = "assets/D.jpg" alt="click here">
+        <img src = "assets/D.jpg" alt="click here">
+    </figure>
 </div>
 
 **Project Highlights**
@@ -163,9 +165,4 @@ And the stack builds from device fabrication, through hardware design, all the w
 
 ## About This Page
 
-<script>
-    function switchImage(this_thumbnail) {
-        var image_container = document.getElementById("image_box");
-        image_container.src = this_thumbnail.src;
-    }
-</script>
+
