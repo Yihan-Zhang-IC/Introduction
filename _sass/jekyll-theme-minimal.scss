@@ -108,7 +108,7 @@ img {
   width: 90%;
 }
 
-@keyframes slidy5 {
+@keyframes slidy4 {
   0% { left: 0%; }
   20% { left: 0%; }
   25% { left: -100%; }
@@ -120,16 +120,16 @@ img {
   100% { left: -400%; }
   }
 
-div#slider5 { overflow: hidden; }
-div#slider5 figure img { width: 20%; float: left; }
-div#slider5 figure { 
+div#slider4 { overflow: hidden; }
+div#slider4 figure img { width: 20%; float: left; }
+div#slider4 figure { 
   position: relative;
   width: 500%;
   margin: 0;
   left: 0;
   text-align: left;
   font-size: 0;
-  animation: 30s slidy5 infinite; 
+  animation: 40s slidy4 infinite; 
 }
 
 header {
