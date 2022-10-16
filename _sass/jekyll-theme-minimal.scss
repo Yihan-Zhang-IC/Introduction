@@ -129,7 +129,10 @@ div#slider4 figure {
   left: 0;
   text-align: left;
   font-size: 0;
-  animation: 40s slidy4 infinite; 
+  animation: 40s slidy4 infinite;
+  &:hover {
+    animation-play-state: paused;
+  }
 }
 
 header {
