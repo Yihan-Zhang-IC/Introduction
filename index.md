@@ -85,15 +85,24 @@ in <a href="https://www.nature.com/articles/s41467-022-31166-x"><i>Nature Commun
 
 <div style="text-align: right">— Exploring how much we can remember in the sub-nW regime.</div><br>
 
-<div id="slider4"> 
-    <figure>
-        <img src = "assets/A.jpg" alt="click here">
-        <img src = "assets/B.jpg" alt="click here">
-        <img src = "assets/C.jpg" alt="click here">
-        <img src = "assets/D.jpg" alt="click here">
-        <img src = "assets/A.jpg" alt="click here">
-    </figure>
-</div>
+<section id="image-carousel" class="splide" aria-label="Beautiful Images">
+  <div class="splide-track">
+		<ul class="splide-list">
+			<li class="splide-slide">
+				<img src="assets/A.jpg" alt="">
+			</li>
+			<li class="splide-slide">
+				<img src="assets/B.jpg" alt="">
+			</li>
+			<li class="splide-slide">
+				<img src="assets/C.jpg" alt="">
+			</li>
+			<li class="splide-slide">
+				<img src="assets/D.jpg" alt="">
+			</li>
+		</ul>
+  </div>
+</section>
 
 **Project Highlights**
 - Placeholder, with more to change
@@ -104,7 +113,11 @@ in <a href="https://www.nature.com/articles/s41467-022-31166-x"><i>Nature Commun
 
 Also available at [my Google Scholar page](https://scholar.google.com/citations?user=WfKytL8AAAAJ&hl=en).
 
-In reverse chronological order (as of June 2022):
+In reverse chronological order (as of March 2023):
+
+1. Y. You, K. Ma, R. Tian, Y. Zhang, Z. Chen, and **Y. Zhang**, "A 10-bit 15 V-Compliant Bi-Phasic Current-Mode Vagus Nerve Stimulation Circuit in 180 nm BCD Technology", to appear in _2023 International Symposium on Circuit and Systems (ISCAS)_, May. 22, 2023.
+
+1. **Y. Zhang**, Y. You, W. Ren, X. Xu, L. Shen, J. Ru, R. Huang, and L. Ye, "A 0.954nW 32kHz Crystal Oscillator in 22nm CMOS with Gm-C-Based Current Injection Control," in _2023 IEEE International Solid-State Circuit Conference (ISSCC)_, pp. 68-69, Feb. 20, 2023
 
 1. **Y. Zhang**, P. Muthuraman, V. Andino-Pavlovsky, I. Uguz, J. Elloian, and K. L. Shepard, "[Augmented Ultrasonography with Implanted CMOS Electronic Motes](https://www.nature.com/articles/s41467-022-31166-x)," in _Nature Communications_, **13**, 3521, 2022.
 
