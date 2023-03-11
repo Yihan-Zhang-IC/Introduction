@@ -4,6 +4,6 @@ description: A full-stack IC (integrated circuit) engineer working on multi-disc
 author_photo: assets/author_photo.png
 carousels:
 	- images:
-		- image: assets/A.jpg
-		- image: assets/B.jpg
-		- image: assets/C.jpg
+		- image: /assets/A.jpg
+		- image: /assets/B.jpg
+		- image: /assets/C.jpg
