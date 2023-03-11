@@ -1,3 +1,11 @@
+---
+carousels:
+	- images:
+		- image: assets/A.jpg
+		- image: assets/B.jpg
+		- image: assets/C.jpg
+---
+
 <hr style="height:3px">
 
 ## My Research Motivation
@@ -84,25 +92,6 @@ in <a href="https://www.nature.com/articles/s41467-022-31166-x"><i>Nature Commun
 <div><strong>Low-Leakage, High-Speed SRAM Design</strong>, in <a href="https://ieeexplore.ieee.org/document/9731573"><i>2022 IEEE International Solid-State Circuit Conference</i></a></div>
 
 <div style="text-align: right">— Exploring how much we can remember in the sub-nW regime.</div><br>
-
-<section id="image-carousel" class="splide" aria-label="Beautiful Images">
-  <div class="splide-track">
-		<ul class="splide-list">
-			<li class="splide-slide">
-				<img src="assets/A.jpg" alt="">
-			</li>
-			<li class="splide-slide">
-				<img src="assets/B.jpg" alt="">
-			</li>
-			<li class="splide-slide">
-				<img src="assets/C.jpg" alt="">
-			</li>
-			<li class="splide-slide">
-				<img src="assets/D.jpg" alt="">
-			</li>
-		</ul>
-  </div>
-</section>
 
 **Project Highlights**
 - Placeholder, with more to change
