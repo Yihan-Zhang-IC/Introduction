@@ -1,9 +1,9 @@
 ---
 carousels:
 	- images:
-		- image: assets/A.jpg
-		- image: assets/B.jpg
-		- image: assets/C.jpg
+		- image: /assets/A.jpg
+		- image: /assets/B.jpg
+		- image: /assets/C.jpg
 ---
 
 <hr style="height:3px">
