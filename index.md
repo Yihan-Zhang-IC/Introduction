@@ -93,6 +93,8 @@ in <a href="https://www.nature.com/articles/s41467-022-31166-x"><i>Nature Commun
 
 <div style="text-align: right">— Exploring how much we can remember in the sub-nW regime.</div><br>
 
+{% include carousel.html height="50" unit="%" duration="10" number="1" %}
+
 **Project Highlights**
 - Placeholder, with more to change
 
