@@ -1,0 +1,16 @@
+- selector: trial
+  bullets: true
+  captions: true
+  images:
+    - src: /assets/A.jpg
+      title: A!
+      alt: This is the first picture
+    - src: /assets/B.jpg
+      title: B!
+      alt: This is the second picture
+    - src: /assets/C.jpg
+      title: C!
+      alt: This is the third picture 
+    - src: /assets/D.jpg
+      title: D!
+      alt: This is the fourth picture

@@ -8,7 +8,7 @@ gallery_a: [/assets/A.jpg, /assets/B.jpg]
 
 !!!UNDER MAINTENANCE!!!
 
-We are living in an age of innovation. 
+We are living in an age of innovation.
 The [growth model](http://www.computer-architecture.org/textual/Moore-Cramming-More-Components-1965.pdf) predicted by Gordon E. Moore has lost its great stability.
 Sustaining the steady pace for transistors to shrink now involves revolutionary new device structures,
 But to me, the ultimate motivation behind this expansion is to sustain what integrated circuits technologies has empowered us, the ability to acquire, organize, and process an increasing amount of information.
