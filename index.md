@@ -3,7 +3,7 @@
 ## Hardware Engineering for the Next Generation
 
 !!!UNDER MAINTENANCE!!! - Coming up soon!
--- Revision 5
+-- Revision 6
 
 
 [Moore's law](http://www.computer-architecture.org/textual/Moore-Cramming-More-Components-1965.pdf) is dead.
