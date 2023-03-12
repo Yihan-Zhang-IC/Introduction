@@ -3,12 +3,12 @@
 ## Hardware Engineering for the Next Generation
 
 !!!UNDER MAINTENANCE!!! - Coming up soon!
--- Revision 2
+-- Revision 3
 
 
 [Moore's law](http://www.computer-architecture.org/textual/Moore-Cramming-More-Components-1965.pdf) is dead.
-It is dead not because that transistors have stopped scaling, but because we don't have a **stable** delivery of better transistors any more.
-Shrinking transistors now involves revolutionary new device structures and/or new materials, starting from HKMG, FinFET in the past, to GAA, CFETs in the future, each step forward is complicated with a significant amount of uncertainties.
+It is dead not for the fact that transistors have stopped scaling, but because we don't have a **stable** delivery of better transistors any more.
+Shrinking transistors now involves revolutionary new device structures and new materials, starting from HKMG, FinFET, to GAA in the future, each step forward is complicated with more and more uncertainties, especially if we compare them with the golden age when Dennard's scaling holds just well.
 And this **lost of stability** is what I consider the death of Moore's law.
 
 Here I devote my research effort to the "more than Moore" way, bridging integrated circuit design with new applications.
@@ -85,7 +85,7 @@ in <a href="https://www.nature.com/articles/s41467-022-31166-x"><i>Nature Commun
 
 <div><strong>Low-Leakage, High-Speed SRAM Design</strong>, in <a href="https://ieeexplore.ieee.org/document/9731573"><i>2022 IEEE International Solid-State Circuit Conference</i></a></div>
 
-<div style="text-align: right">— Exploring how much we can remember in the sub-nW regime.</div>
+<div style="text-align: right">— Exploring how much we can remember in the sub-nW regime.</div> <br>
 
 <div id="slider_trial">
   <img src="assets/A.jpg" title="A!" alt="The first image of the sliders" />
