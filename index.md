@@ -8,7 +8,7 @@ image_sliders:
 
 ## My Research Motivation
 
-!!!UNDER MAINTENANCE!!! - 6
+!!!UNDER MAINTENANCE!!! - 7
 
 We are living in an age of innovation.
 The [growth model](http://www.computer-architecture.org/textual/Moore-Cramming-More-Components-1965.pdf) predicted by Gordon E. Moore has lost its great stability.
@@ -91,7 +91,13 @@ in <a href="https://www.nature.com/articles/s41467-022-31166-x"><i>Nature Commun
 
 <div style="text-align: right">— Exploring how much we can remember in the sub-nW regime.</div><br>
 
-{% include slider.html selector="trial" %}
+<div id="slider-trial">
+  <img src="assets/A.jpg" title="A!" alt="The first image of the sliders" />
+  <img src="assets/B.jpg" title="B!" alt="The second image of the sliders" />
+  <img src="assets/C.jpg" title="C!" alt="The third image of the sliders" />
+  <img src="assets/D.jpg" title="D!" alt="The fourth image of the sliders" />
+</div>
+
 
 **Project Highlights**
 - Placeholder, with more to change
