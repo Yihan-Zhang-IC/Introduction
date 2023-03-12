@@ -84,8 +84,8 @@ in <a href="https://www.nature.com/articles/s41467-022-31166-x"><i>Nature Commun
 ---
 
 <div><strong>Low-Leakage, High-Speed SRAM Design</strong>, in <a href="https://ieeexplore.ieee.org/document/9731573"><i>2022 IEEE International Solid-State Circuit Conference</i></a></div>
-
-<p><div style="text-align: right">— Exploring how much we can remember in the sub-nW regime.</div> </p>
+<div style="text-align: right">— Exploring how much we can remember in the sub-nW regime.</div>
+<p class="" style="margin: 4px;"></p>
 <p>
   <div id="slider_trial">
 	<img src="assets/A.jpg" title="A!" alt="The first image of the sliders" />
