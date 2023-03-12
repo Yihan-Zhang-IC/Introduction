@@ -44,7 +44,7 @@ I hope my work can inspire brand new applications of how integrated circuits can
 <div><strong>Augmented Ultrasonography with Implanted CMOS Electronic Motes</strong>,
 in <a href="https://www.nature.com/articles/s41467-022-31166-x"><i>Nature Communications</i></a> and <a href="https://ieeexplore.ieee.org/abstract/document/8780205"><i>2019 Custom Integrated Circuit Conference</i></a></div>
 
-<div style="text-align: right">— Extending B-mode ultrasonography's view with sub-nW electronic implants.</div><br>
+<p><div style="text-align: right">— Extending B-mode ultrasonography's view with sub-nW electronic implants.</div></p>
 
 ![Augmented Ultrasonography, its concept](assets/aug_ultrasound.png)
 
