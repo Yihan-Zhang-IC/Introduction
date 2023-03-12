@@ -1,5 +1,13 @@
 <script src="lib/ideal-image-slider/ideal-image-slider.js"> </script>
+<script src="lib/ideal-image-slider/extensions/bullet-nav/iis-bullet-nav.js"> </script>
+<script src="lib/ideal-image-slider/extensions/capptions/iis-captions.js"> </script>
 <script>
-  var slider_trial = new IdealImageSlider.Slider('#slider_trial');
+  var slider_trial = new IdealImageSlider.Slider({
+      selector: '#slider_trial',
+      effect: 'fade',
+      height: 'auto'
+  });
+  slider_trial.addBulletNav();
+  slider_trial.addCaptions();
   slider_trial.start();
 </script>
