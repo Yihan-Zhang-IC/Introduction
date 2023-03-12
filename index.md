@@ -1,12 +1,8 @@
----
-gallery_a: [/assets/A.jpg, /assets/B.jpg]
----
-
 <hr style="height:3px">
 
 ## My Research Motivation
 
-!!!UNDER MAINTENANCE!!! - 1
+!!!UNDER MAINTENANCE!!! - 2
 
 We are living in an age of innovation.
 The [growth model](http://www.computer-architecture.org/textual/Moore-Cramming-More-Components-1965.pdf) predicted by Gordon E. Moore has lost its great stability.
