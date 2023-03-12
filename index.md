@@ -1,7 +1,7 @@
 ---
 title: Overview
 layout: default
-filename: index.md
+filename: index
 ---
 
 <hr style="height:3px">
