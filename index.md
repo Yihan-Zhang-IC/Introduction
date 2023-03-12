@@ -1,19 +1,15 @@
----
-layout: page
-image_sliders:
-	- trial
----
-
 <hr style="height:3px">
 
-## My Research Motivation
+## Hardware Engineering for the Next Generation
 
-!!!UNDER MAINTENANCE!!! - 3
+!!!UNDER MAINTENANCE!!! - Coming up soon!
+-- Revision 1
 
-We are living in an age of innovation.
-The [growth model](http://www.computer-architecture.org/textual/Moore-Cramming-More-Components-1965.pdf) predicted by Gordon E. Moore has lost its great stability.
-Sustaining the steady pace for transistors to shrink now involves revolutionary new device structures,
-But to me, the ultimate motivation behind this expansion is to sustain what integrated circuits technologies has empowered us, the ability to acquire, organize, and process an increasing amount of information.
+
+[Moore's law](http://www.computer-architecture.org/textual/Moore-Cramming-More-Components-1965.pdf) is dead.
+It is dead not because that transistors have stopped scaling, but because we don't have a **stable** delivery of better transistors any more.
+Shrinking transistors now involves revolutionary new device structures and/or new materials, starting from HKMG, FinFET in the past, to GAA, CFETs in the future, each step forward is complicated with a significant amount of uncertainties.
+And this **lost of stability** is what I consider the death of Moore's law.
 
 Here I devote my research effort to the "more than Moore" way, bridging integrated circuit design with new applications.
 Specifically, I design low power circuits, typically in the sub-nW range, that uses energy that is previously thought unusable, to acquire information that was otherwise undetectable.
