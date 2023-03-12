@@ -3,7 +3,7 @@
 ## Hardware Engineering for the Next Generation
 
 !!!UNDER MAINTENANCE!!! - Coming up soon!
--- Revision 4
+-- Revision 5
 
 
 [Moore's law](http://www.computer-architecture.org/textual/Moore-Cramming-More-Components-1965.pdf) is dead.
@@ -11,7 +11,7 @@ It is dead not for the fact that transistors have stopped scaling, but because w
 Shrinking transistors now involves revolutionary new device structures and new materials, starting from HKMG, FinFET, to GAA in the future, each step forward is complicated with more and more uncertainties, especially if we compare them with the golden age when Dennard's scaling holds just well.
 And this **lost of stability** is what I consider the death of Moore's law.
 
-Here I devote my research effort to the "more than Moore" way, bridging integrated circuit design with new applications.
+The great highway envisioned by Gordon Moore Here I devote my research effort to the "more than Moore" way, bridging integrated circuit design with new applications.
 Specifically, I design low power circuits, typically in the sub-nW range, that uses energy that is previously thought unusable, to acquire information that was otherwise undetectable.
 I hope my work can inspire brand new applications of how integrated circuits can be used, and transform our specific ways of living.
 
