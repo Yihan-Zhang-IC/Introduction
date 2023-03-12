@@ -116,7 +116,7 @@ In reverse chronological order (as of March 2023):
 
 1. **Y. Zhang**, P. Muthuraman, V. Andino-Pavlovsky, I. Uguz, J. Elloian, and K. L. Shepard, "[Augmented Ultrasonography with Implanted CMOS Electronic Motes](https://www.nature.com/articles/s41467-022-31166-x)," in _Nature Communications_, **13**, 3521, 2022.
 
-1. X. Xu, S. Ye, J. Gao, **Y. Zhang**, L. Shen, and L. Ye, "[A 32-ppm/˚ C 0.9-nW/kHz Relaxation Oscillator with Event-Driven Architecture and Charge Reuse Technique](https://ieeexplore.ieee.org/document/9937717/)," in _2022 International Symposium on Circuit and Systems (ISCAS)_, Jun. 1, 2022.
+1. X. Xu, S. Ye, J. Gao, **Y. Zhang**, L. Shen, and L. Ye, "[A 32-ppm/<sup>o</sup>C 0.9-nW/kHz Relaxation Oscillator with Event-Driven Architecture and Charge Reuse Technique](https://ieeexplore.ieee.org/document/9937717/)," in _2022 International Symposium on Circuit and Systems (ISCAS)_, Jun. 1, 2022.
 
 1. C. Xue, **Y. Zhang**, P. Chen, M. Zhu, T. Wu, M. Wu, Y. He, and L. Ye, "[Reliability-Improved Read Circuit and Self-Terminating Write Circuit for STT-MRAM in 16 nm FinFET](https://ieeexplore.ieee.org/document/9937703)", in _2022 International Symposium on Circuit and Systems (ISCAS)_, May. 31, 2022.
 
@@ -124,7 +124,7 @@ In reverse chronological order (as of March 2023):
 
 1. **Y. Zhang**, C. Xue, X. Wang, T. Liu, J. Gao, P. Chen, J. Liu, L. Sun, L. Shen, J. Ru, L. Ye, and R. Huang, "[Single-Mode 6T CMOS SRAM Macros with Keeper-Loading-Free Peripherals and Row-Separate Dynamic Body Bias Achieving 2.53fW/bit Leakage for AIoT Sensing Platforms](https://ieeexplore.ieee.org/document/9731573)," in _2022 IEEE International Solid-State Circuit Conference (ISSCC)_, pp. 184-186, Feb. 20, 2022
 
-1. Y. Liu, Z. Wang, W. He, L. Shen, **Y. Zhang**, P. Chen, M. Wu, H. Zhang, P. Zhou, J. Liu, G. Sun, J. Ru, L. Ye, and R. Huang, "[An 82nW 0.53pJ/SOP Clock-Free Spiking Neural Network with 40µs Latency for AloT Wake-Up Functions Using Ultimate-Event-Driven Bionic Architecture and Computing-in-Memory Technique](https://ieeexplore.ieee.org/abstract/document/9731795)," in _2022 IEEE International Solid-State Circuits Conference (ISSCC)_, pp. 372-374, Feb. 20, 2022
+1. Y. Liu, Z. Wang, W. He, L. Shen, **Y. Zhang**, P. Chen, M. Wu, H. Zhang, P. Zhou, J. Liu, G. Sun, J. Ru, L. Ye, and R. Huang, "[An 82nW 0.53pJ/SOP Clock-Free Spiking Neural Network with 40µs Latency for AIoT Wake-Up Functions Using Ultimate-Event-Driven Bionic Architecture and Computing-in-Memory Technique](https://ieeexplore.ieee.org/abstract/document/9731795)," in _2022 IEEE International Solid-State Circuits Conference (ISSCC)_, pp. 372-374, Feb. 20, 2022
 
 1. L. Ye, Z. Wang, Y. Liu, P. Chen, H. Li, H. Zhang, M. Wu, W. He, L. Shen, **Y. Zhang**, Z. Tan, Y. Wang, and R. Huang, "[The Challenges and Emerging Technologies for Low-Power Artificial Intelligence IoT Systems](https://ieeexplore.ieee.org/abstract/document/9516591)," in _IEEE Transactions on Circuits and Systems I: Regular Papers_, vol. 68, no. 12, pp. 4821-4834, Dec. 2021
 
@@ -136,13 +136,13 @@ In reverse chronological order (as of March 2023):
 
 1. Z. Wang, L. Ye, Y. Liu, P. Zhou, Z. Tan, H. Fan, **Y. Zhang**, J. Ru, Y. Wang, R. Huang, "[A 148nW general-purpose event-driven intelligent wake-up chip for AIoT devices using asynchronous spike-based feature extractor and convolutional neural network](https://ieeexplore.ieee.org/document/9365816)," in _2021 IEEE International Solid-State Circuits Conference (ISSCC)_, pp. 436-438, Feb. 13, 2021
 
-1. H. Li, Z. Tan, Y. Bao, H. Xiao, H. Zhang, K. Du, **Y. Zhang**, L. Ye, R. Huang, "[A 1.5μW 0.135pJ·%RH^2^ CMOS Humidity Sensor Using Adaptive Range-Shift Zoom CDC and Power-Aware Floating Inverter Amplifier Array](https://ieeexplore.ieee.org/document/9365931)," in _2021 IEEE International Solid-State Circuits Conference (ISSCC)_, pp. 72-74, Feb. 13, 2021
+1. H. Li, Z. Tan, Y. Bao, H. Xiao, H. Zhang, K. Du, **Y. Zhang**, L. Ye, R. Huang, "[A 1.5μW 0.135pJ·%RH<sup>2</sup> CMOS Humidity Sensor Using Adaptive Range-Shift Zoom CDC and Power-Aware Floating Inverter Amplifier Array](https://ieeexplore.ieee.org/document/9365931)," in _2021 IEEE International Solid-State Circuits Conference (ISSCC)_, pp. 72-74, Feb. 13, 2021
 
 1. **Y. Zhang**, F. A. Cardoso, and K. L. Shepard, "[A 0.72 nW, 1 Sample/s Fully Integrated pH Sensor with 65.8 LSB/pH Sensitivity](https://ieeexplore.ieee.org/document/9163023)," in _2020 IEEE Symposium on VLSI Circuits_, Jun. 15, 2020
 
 1. <u>W-C. Cornell</u>, **<u>Y. Zhang</u>**, A. Bendebury, A. J. W. Hartel, K. L. Shepard, and L. E. P. Dietrich, "[Phenazine Oxidation by a Distal Electrode Modulates Biofilm Morphogenesis](https://www.sciencedirect.com/science/article/pii/S2590207520300071)," in _Biofilm_, vol. 2, May. 2020 (co-first author)
 
-1. C. Shi, T. Costa, J. Elloian, **Y. Zhang**, K. L. Shepard, "[A 0.065-mm$^3$ monolithically-integrated ultrasonic wireless sensing mote for real-time physiological temperature monitoring](https://ieeexplore.ieee.org/document/8979270)," in _IEEE Transactions on Biomedical Circuits and Systems_, vol. 14, no. 3, pp. 412-424, Jun. 2020
+1. C. Shi, T. Costa, J. Elloian, **Y. Zhang**, K. L. Shepard, "[A 0.065-mm<sup>3</sup> monolithically-integrated ultrasonic wireless sensing mote for real-time physiological temperature monitoring](https://ieeexplore.ieee.org/document/8979270)," in _IEEE Transactions on Biomedical Circuits and Systems_, vol. 14, no. 3, pp. 412-424, Jun. 2020
 
 1. **Y. Zhang** and K. L. Shepard, "[A 0.6-mm<sup>2</sup> Powering and Data Telemetry System Compatible with Ultrasound B-Mode Imaging for Freely Moving Biomedical Sensor Systems](https://ieeexplore.ieee.org/abstract/document/8780205/)," in _2019 Custom Integrated Circuit Conference_, Apr. 16, 2019
 
