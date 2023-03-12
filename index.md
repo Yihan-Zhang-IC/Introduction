@@ -87,14 +87,14 @@ in <a href="https://www.nature.com/articles/s41467-022-31166-x"><i>Nature Commun
 
 <div style="text-align: right">— Exploring how much we can remember in the sub-nW regime.</div> <br>
 
-<div id="slider_trial">
-  <img src="assets/A.jpg" title="A!" alt="The first image of the sliders" />
-  <img src="assets/B.jpg" title="B!" alt="The second image of the sliders" />
-  <img src="assets/C.jpg" title="C!" alt="The third image of the sliders" />
-  <img src="assets/D.jpg" title="D!" alt="The fourth image of the sliders" />
-</div>
-
-<br>
+<p>
+  <div id="slider_trial">
+	<img src="assets/A.jpg" title="A!" alt="The first image of the sliders" />
+	<img src="assets/B.jpg" title="B!" alt="The second image of the sliders" />
+	<img src="assets/C.jpg" title="C!" alt="The third image of the sliders" />
+	<img src="assets/D.jpg" title="D!" alt="The fourth image of the sliders" />
+  </div>
+</p>
 
 **Project Highlights**
 - Placeholder, with more to change
