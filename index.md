@@ -1,4 +1,5 @@
 ---
+layout: page
 image_sliders:
 	- trial
 ---
