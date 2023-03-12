@@ -116,9 +116,9 @@ In reverse chronological order (as of March 2023):
 
 1. **Y. Zhang**, P. Muthuraman, V. Andino-Pavlovsky, I. Uguz, J. Elloian, and K. L. Shepard, "[Augmented Ultrasonography with Implanted CMOS Electronic Motes](https://www.nature.com/articles/s41467-022-31166-x)," in _Nature Communications_, **13**, 3521, 2022.
 
-1. X. Xu, S. Ye, J. Gao, **Y. Zhang**, L. Shen, and L. Ye, "A 32-ppm/\textdegree C 0.9-nW/kHz Relaxation Oscillator with Event-Driven Architecture and Charge Reuse Technique," in _2022 International Symposium on Circuit and Systems (ISCAS)_, Jun. 1, 2022.
+1. X. Xu, S. Ye, J. Gao, **Y. Zhang**, L. Shen, and L. Ye, "[A 32-ppm/$\textdegree$ C 0.9-nW/kHz Relaxation Oscillator with Event-Driven Architecture and Charge Reuse Technique](https://ieeexplore.ieee.org/document/9937717/)," in _2022 International Symposium on Circuit and Systems (ISCAS)_, Jun. 1, 2022.
 
-1. C. Xue, **Y. Zhang\***, P. Chen, M. Zhu, T. Wu, M. Wu, Y. He, and L. Ye, "Reliability-Improved Read Circuit and Self-Terminating Write Circuit for STT-MRAM in 16 nm FinFET", in _2022 International Symposium on Circuit and Systems (ISCAS)_, May. 31, 2022. (corresponding author)
+1. C. Xue, **Y. Zhang**, P. Chen, M. Zhu, T. Wu, M. Wu, Y. He, and L. Ye, "[Reliability-Improved Read Circuit and Self-Terminating Write Circuit for STT-MRAM in 16 nm FinFET](https://ieeexplore.ieee.org/document/9937703)", in _2022 International Symposium on Circuit and Systems (ISCAS)_, May. 31, 2022.
 
 1. H. Zhang, L. Shen, S. Zhang, H. Li, **Y. Zhang**, Z. Tan, R. Huang, and L. Ye, "[A 77μW 115dB-Dynamic-Range 586fA-Sensitivity Current-Domain Continuous-Time Zoom ADC with Pulse-Width-Modulated Resistor DAC and Background Offset Compensation Scheme](https://ieeexplore.ieee.org/document/9772794)," in _2022 IEEE Custom Integrated Circuits Conference (CICC)_, pp. 1-2, Apr. 24, 2022.
 
