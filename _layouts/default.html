@@ -64,7 +64,7 @@
       <section>
 
       {% for page in site.pages %}
-        <h1><a href={{ page.filename }}>{{ page.title }}</a></h1>
+        <div class="navigation"><a href={{ page.filename }}>{{ page.title }}</a></div>
       {% endfor %}
 
       {{ content }}

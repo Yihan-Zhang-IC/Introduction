@@ -55,12 +55,28 @@ a:hover small {
   color:#777;
 }
 
-br {
-  display: block;
-  margin-top: 5px;
-  margin-bottom: 0px;
-  line-height: 10px;
-  content: "";
+.navigation {
+  background-color: #267CB9;
+  overflow: hidden;
+}
+
+.navigation a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.navigation a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.navigation a:active {
+  background-color: #04AA6D;
+  color: white;
 }
 
 .wrapper {
