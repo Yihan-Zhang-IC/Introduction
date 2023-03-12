@@ -3,7 +3,7 @@
 ## Hardware Engineering for the Next Generation
 
 !!!UNDER MAINTENANCE!!! - Coming up soon!
--- Revision 1
+-- Revision 2
 
 
 [Moore's law](http://www.computer-architecture.org/textual/Moore-Cramming-More-Components-1965.pdf) is dead.
@@ -85,7 +85,7 @@ in <a href="https://www.nature.com/articles/s41467-022-31166-x"><i>Nature Commun
 
 <div><strong>Low-Leakage, High-Speed SRAM Design</strong>, in <a href="https://ieeexplore.ieee.org/document/9731573"><i>2022 IEEE International Solid-State Circuit Conference</i></a></div>
 
-<div style="text-align: right">— Exploring how much we can remember in the sub-nW regime.</div><br>
+<div style="text-align: right">— Exploring how much we can remember in the sub-nW regime.</div>
 
 <div id="slider_trial">
   <img src="assets/A.jpg" title="A!" alt="The first image of the sliders" />
@@ -94,6 +94,7 @@ in <a href="https://www.nature.com/articles/s41467-022-31166-x"><i>Nature Commun
   <img src="assets/D.jpg" title="D!" alt="The fourth image of the sliders" />
 </div>
 
+<br>
 
 **Project Highlights**
 - Placeholder, with more to change
