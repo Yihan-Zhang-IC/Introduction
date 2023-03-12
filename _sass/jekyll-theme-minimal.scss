@@ -58,10 +58,12 @@ a:hover small {
 br {
   display: block;
   margin-top: 5px;
+  line-height: 20px;
+  content: "";
 }
 
 .wrapper {
-  width:860px;
+  width:864px;
   margin:0 auto;
 }
 
