@@ -62,10 +62,16 @@
         {% endfor %}
       </header>
       <section>
-
-      {% for page in site.pages %}
-        <div class="navigation"><a href={{ page.filename }}>{{ page.title }}</a></div>
-      {% endfor %}
+      
+      <div class="navigation">
+        {% for page in site.pages %}
+          {% if page.filename == index %}
+            <a href={{ page.filename }} class="active">{{ page.title }}</a>
+          {% else %}
+            <a href={{ page.filename }}>{{ page.title }}</a>
+          {% endif %}
+        {% endfor %}
+      </div>
 
       {{ content }}
 
