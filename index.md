@@ -1,9 +1,15 @@
+---
+title: Overview
+layout: default
+filename: index.md
+---
+
 <hr style="height:3px">
 
 ## Hardware Engineering for the Next Generation
 
 !!!UNDER MAINTENANCE!!! - Coming up soon!
--- Revision 6
+-- Revision 1
 
 
 [Moore's law](http://www.computer-architecture.org/textual/Moore-Cramming-More-Components-1965.pdf) is dead.
@@ -11,7 +17,7 @@ It is dead not for the fact that transistors have stopped scaling, but because w
 Shrinking transistors now involves revolutionary new device structures and new materials, starting from HKMG, FinFET, to GAA in the future, each step forward is complicated with more and more uncertainties, especially if we compare them with the golden age when Dennard's scaling holds just well.
 And this **lost of stability** is what I consider the death of Moore's law.
 
-The great highway envisioned by Gordon Moore Here I devote my research effort to the "more than Moore" way, bridging integrated circuit design with new applications.
+Here I devote my research effort to the "more than Moore" way, bridging integrated circuit design with new applications.
 Specifically, I design low power circuits, typically in the sub-nW range, that uses energy that is previously thought unusable, to acquire information that was otherwise undetectable.
 I hope my work can inspire brand new applications of how integrated circuits can be used, and transform our specific ways of living.
 
@@ -33,13 +39,9 @@ I hope my work can inspire brand new applications of how integrated circuits can
 
 <hr style="height:3px">
 
-## Projects and Publications Highlights
+## Projects Directions
 
 ---
-
-<!-- Initialization of all variables -->
-
-<!-- Actual texts starts from here -->
 
 <div><strong>Augmented Ultrasonography with Implanted CMOS Electronic Motes</strong>,
 in <a href="https://www.nature.com/articles/s41467-022-31166-x"><i>Nature Communications</i></a> and <a href="https://ieeexplore.ieee.org/abstract/document/8780205"><i>2019 Custom Integrated Circuit Conference</i></a></div>
