@@ -1,8 +1,13 @@
+---
+image_sliders:
+	- trial
+---
+
 <hr style="height:3px">
 
 ## My Research Motivation
 
-!!!UNDER MAINTENANCE!!! - 2
+!!!UNDER MAINTENANCE!!! - 3
 
 We are living in an age of innovation.
 The [growth model](http://www.computer-architecture.org/textual/Moore-Cramming-More-Components-1965.pdf) predicted by Gordon E. Moore has lost its great stability.
@@ -65,7 +70,6 @@ in <a href="https://www.nature.com/articles/s41467-022-31166-x"><i>Nature Commun
 
 <div style="text-align: right">— From a chemical signal to digital interface, all in 0.72 nW.</div>
 
-![A sub-nW pH sensor](assets/pHSensor.gif)
 
 **Project Highlights**
 - Full-stack engineering efforts from device fabrication to software design.
