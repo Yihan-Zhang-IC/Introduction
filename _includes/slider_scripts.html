@@ -1,23 +1,27 @@
-{% assign page_sliders = page.sliders_on_page %}
+{% assign page_sliders = page.sliders %}
 {% assign site_sliders = layout.sliders %}
 {% assign all_slider_array = page_sliders | concat: site_sliders %}
-
+<!--
 {% if all_slider_array != empty %}
-
+-->
 <script src="lib/ideal-image-slider/ideal-image-slider.js"> </script>
 <script src="lib/ideal-image-slider/extensions/bullet-nav/iis-bullet-nav.js"> </script>
 <script src="lib/ideal-image-slider/extensions/captions/iis-captions.js"> </script>
+<!--
 {% for slider in all_slider_array %}
+-->
 <script>
-  var {{ slider }} = new IdealImageSlider.Slider({
-      selector: '#{{ slider }}',
+  var slider_trial = new IdealImageSlider.Slider({
+      selector: '#slider_trial',
       effect: 'fade',
       height: 'auto'
   });
-  {{ slider }}.addBulletNav();
-  {{ slider }}.addCaptions();
-  {{ slider }}.start();
+  slider_trial.addBulletNav();
+  slider_trial.addCaptions();
+  slider_trial.start();
 </script>
+<!--
 {% endfor %}
 
 {% endif %}
+-->
