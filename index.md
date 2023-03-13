@@ -23,7 +23,7 @@ I hope my work can inspire brand new applications of how integrated circuits can
 
 <hr style="height:3px">
 
-## Projects Directions
+## Research Directions
 
 ---
 

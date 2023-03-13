@@ -62,16 +62,8 @@
         {% endfor %}
       </header>
       <section>
-      
-      <div class="navigation">
-        {% for page in site.pages %}
-          {% if page.filename == index %}
-            <a href={{ page.filename }} class="active">{{ page.title }}</a>
-          {% else %}
-            <a href={{ page.filename }}>{{ page.title }}</a>
-          {% endif %}
-        {% endfor %}
-      </div>
+
+      {% include menu.html %}
 
       {{ content }}
 
