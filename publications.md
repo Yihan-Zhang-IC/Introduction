@@ -9,8 +9,8 @@ order: D
 
 ## Publications
 
-In reverse chronological order (as of March 2023):
-(A complete list is also available at [my Google Scholar page](https://scholar.google.com/citations?user=WfKytL8AAAAJ&hl=en)).
+A complete list is also available at [my Google Scholar page](https://scholar.google.com/citations?user=WfKytL8AAAAJ&hl=en).
+List of publications in reverse chronological order (as of March 2023):
 
 1. Y. You, K. Ma, R. Tian, Y. Zhang, Z. Chen, and **Y. Zhang**, "A 10-bit 15 V-Compliant Bi-Phasic Current-Mode Vagus Nerve Stimulation Circuit in 180 nm BCD Technology", to appear in _2023 International Symposium on Circuit and Systems (ISCAS)_, May. 22, 2023.
 
