@@ -3,6 +3,8 @@ title: Home
 layout: default
 filename: index
 menu_order: A
+sliders:
+	- slider_trial
 ---
 
 <hr style="height:3px">
