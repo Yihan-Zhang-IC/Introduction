@@ -1,5 +1,5 @@
 <div class="navigation">
-  {% for page in menu_list %}
+  {% for page in site.menu_list %}
     {% if page.filename == index %}
       <a href={{ page.filename }} class="active">{{ page.title }}</a>
     {% else %}
