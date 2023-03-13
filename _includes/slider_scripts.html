@@ -1,4 +1,4 @@
-{% assign page_sliders = page.sliders %}
+{% assign page_sliders = page.sliders_on_page %}
 {% assign site_sliders = layout.sliders %}
 {% assign all_slider_array = page_sliders | concat: site_sliders %}
 
@@ -9,14 +9,14 @@
 <script src="lib/ideal-image-slider/extensions/captions/iis-captions.js"> </script>
 {% for slider in all_slider_array %}
 <script>
-  var slider_trial = new IdealImageSlider.Slider({
+  var {{ slider }} = new IdealImageSlider.Slider({
       selector: '#{{ slider }}',
       effect: 'fade',
       height: 'auto'
   });
-  slider_trial.addBulletNav();
-  slider_trial.addCaptions();
-  slider_trial.start();
+  {{ slider }}.addBulletNav();
+  {{ slider }}.addCaptions();
+  {{ slider }}.start();
 </script>
 {% endfor %}
 
