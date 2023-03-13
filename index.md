@@ -2,6 +2,7 @@
 title: Home
 layout: default
 filename: index
+order: 1
 ---
 
 <hr style="height:3px">
