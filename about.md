@@ -2,7 +2,7 @@
 title: About Me
 layout: default
 filename: about
-order: Z
+collection: Z
 ---
 
 <hr style="height:3px">

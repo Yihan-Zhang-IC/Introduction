@@ -1,5 +1,5 @@
 <div class="navigation">
-  {% for page in site.pages|dictsort:"order" %}
+  {% for page in site.pages|dictsort:"collection" %}
     {% if page.filename == index %}
       <a href={{ page.filename }} class="active">{{ page.title }}</a>
     {% else %}

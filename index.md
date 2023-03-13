@@ -2,7 +2,7 @@
 title: Home
 layout: default
 filename: index
-order: A
+collection: A
 ---
 
 <hr style="height:3px">
