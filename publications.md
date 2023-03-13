@@ -1,5 +1,5 @@
 ---
-title: CV
+title: Publications
 layout: default
 filename: publications
 ---
@@ -8,9 +8,8 @@ filename: publications
 
 ## Publications
 
-Also available at [my Google Scholar page](https://scholar.google.com/citations?user=WfKytL8AAAAJ&hl=en).
-
 In reverse chronological order (as of March 2023):
+(A complete list is also available at [my Google Scholar page](https://scholar.google.com/citations?user=WfKytL8AAAAJ&hl=en)).
 
 1. Y. You, K. Ma, R. Tian, Y. Zhang, Z. Chen, and **Y. Zhang**, "A 10-bit 15 V-Compliant Bi-Phasic Current-Mode Vagus Nerve Stimulation Circuit in 180 nm BCD Technology", to appear in _2023 International Symposium on Circuit and Systems (ISCAS)_, May. 22, 2023.
 
@@ -57,22 +56,3 @@ In reverse chronological order (as of March 2023):
 1. H. Cai, C. Zhou, **Y. Zhang**, Y. Yang, T. Ren, C. Guo, and J. Liu, "[SAW Based Mass-Loading Biosensor for DNA Detection](https://ieeexplore.ieee.org/abstract/document/6628122)", in _2013 IEEE International Conference of Electron Devices and Solid-State Circuits_, Jun. 3, 2013
 
 <hr style="height:3px">
-
-## Skills
-
-I call myself a full-stack engineer.
-And the stack builds from device fabrication, through hardware design, all the way up to software design.
-
-- **Computer-Aided Design Tools for Hardware**: Cadence Virtuoso, Cadence Innovus, Cadence Genus, Synopsys SiliconSmart, Synopsys Design Compiler, Synopsys Library Compiler, Mentor Graphics ModelSim, Xilinx Vivado (ISE), Verilator, Cadence Allegro, Altium Designer
-- **Hardware Description Language**: Verilog, System Verilog
-- **Device Fabrication**: Photolithography, electron beam deposition, thermal deposition, chemical etching
-- **Semiconductor Packaging**: Dicing, flip-chip packaging, wirebonding
-- **Selected Programming and Scripting Language**: C, C\#, C++, Python, Java, Rust, Swift, Lisp, SKILL, LaTeX, GLSL, Matlab, Lua, JSON, YAML, TOML, HTML, CSS, shell (bash, zsh, csh, etc.)
-- **Software Frameworks**: OpenGL, OpenCV, Qt, XNA, Unity
-- **Language**: Chinese (Mandarin) and English
-
-<hr style="height:3px">
-
-## About This Page
-
-
