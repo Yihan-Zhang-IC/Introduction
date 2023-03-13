@@ -2,7 +2,7 @@
 title: Publications
 layout: default
 filename: publications
-order: 2
+order: D
 ---
 
 <hr style="height:3px">
