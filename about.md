@@ -2,7 +2,7 @@
 title: About Me
 layout: default
 filename: about
-category: Z
+menu_order: Z
 ---
 
 <hr style="height:3px">

@@ -2,7 +2,7 @@
 title: Home
 layout: default
 filename: index
-category: A
+menu_order: A
 ---
 
 <hr style="height:3px">
@@ -10,7 +10,7 @@ category: A
 ## Hardware Engineering for the Next Generation
 
 !!!UNDER MAINTENANCE!!! - Coming up soon!
--- Revision 5
+-- Revision 6
 
 
 [Moore's law](http://www.computer-architecture.org/textual/Moore-Cramming-More-Components-1965.pdf) is dead.

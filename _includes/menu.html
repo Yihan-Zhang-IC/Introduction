@@ -1,6 +1,7 @@
 <div class="navigation">
-  {% for page in site.pages|dictsort:"category" %}
-    {% if page.filename == index %}
+  {% assign sorted_pages = (site.pages | sort:"menu_order") %}
+  {% for page in sorted_pages %}
+    {% if page.filename == "index" %}
       <a href={{ page.filename }} class="active">{{ page.title }}</a>
     {% else %}
       <a href={{ page.filename }}>{{ page.title }}</a>
