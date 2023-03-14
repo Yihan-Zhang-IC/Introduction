@@ -14,7 +14,7 @@ page_slider:
 !!!UNDER MAINTENANCE!!! - Coming up soon!
 -- Revision 4
 
-<!-->
+<!--
 [Moore's law](http://www.computer-architecture.org/textual/Moore-Cramming-More-Components-1965.pdf) is dead.
 It is dead not for the fact that transistors have stopped scaling, but because we don't have a **stable** delivery of better transistors any more.
 Shrinking transistors now involves revolutionary new device structures and new materials, starting from HKMG, FinFET, to GAA in the future, each step forward is complicated with more and more uncertainties, especially if we compare them with the golden age when Dennard's scaling holds just well.
