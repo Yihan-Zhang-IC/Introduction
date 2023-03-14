@@ -1,10 +1,10 @@
 {% assign page_slider = page.page_slider %}
-{% if page_slider != null %}
+{% if page_slider != empty %}
 
 <script src="lib/ideal-image-slider/ideal-image-slider.js"> </script>
 <script src="lib/ideal-image-slider/extensions/bullet-nav/iis-bullet-nav.js"> </script>
 <script src="lib/ideal-image-slider/extensions/captions/iis-captions.js"> </script>
-
+{% for slider in page_slider %}
 <script>
   var slider_trial = new IdealImageSlider.Slider({
       selector: '#slider_trial',
@@ -15,4 +15,5 @@
   slider_trial.addCaptions();
   slider_trial.start();
 </script>
+{% endfor %}
 {% endif%}
