@@ -1,11 +1,11 @@
 <div class="navigation">
   {% assign sorted_pages = (site.pages | sort:"menu_order") %}
-  {% for page in sorted_pages %}
-    {% if page.filename != null %}
-      {% if page.filename == "index" %}
-        <a href={{ page.filename }} class="active">{{ page.title }}</a>
+  {% for sorted_page in sorted_pages %}
+    {% if sorted_page.filename != null %}
+      {% if sorted_page.filename == "index" %}
+        <a href={{ sorted_page.filename }} class="active">{{ sorted_page.title }}</a>
       {% else %}
-        <a href={{ page.filename }}>{{ page.title }}</a>
+        <a href={{ sorted_page.filename }}>{{ sorted_page.title }}</a>
       {% endif %}
     {% endif %}
   {% endfor %}
