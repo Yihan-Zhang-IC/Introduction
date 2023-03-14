@@ -4,7 +4,7 @@ layout: default
 filename: index
 menu_order: A
 page_slider:
-  - slider_trial
+  - name: slider_trial
 ---
 
 <hr style="height:3px">
@@ -12,7 +12,7 @@ page_slider:
 ## Hardware Engineering for the Next Generation
 
 !!!UNDER MAINTENANCE!!! - Coming up soon!
--- Revision 3
+-- Revision 4
 
 
 [Moore's law](http://www.computer-architecture.org/textual/Moore-Cramming-More-Components-1965.pdf) is dead.

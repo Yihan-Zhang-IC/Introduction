@@ -6,8 +6,8 @@
 <script src="lib/ideal-image-slider/extensions/captions/iis-captions.js"> </script>
 {% for slider in page_slider %}
 <script>
-  var slider_trial = new IdealImageSlider.Slider({
-      selector: '#slider_trial',
+  var {{ slider.name }} = new IdealImageSlider.Slider({
+      selector: '#{{ slider.name }}',
       effect: 'fade',
       height: 'auto'
   });
