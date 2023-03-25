@@ -18,7 +18,7 @@ page_slider:
 The past decades enjoyed [Moore's law](http://www.computer-architecture.org/textual/Moore-Cramming-More-Components-1965.pdf)'s magic, as it predicts a **stable** growth of computing power at a unit cost.
 However, in recent years, this stability starts to fade.
 Smaller and better transistors will be there, but each step of shrinking will involve revolutionary new device structures and new materials.
-Back from [HKMG] and [FinFET], to [GAA] and [CFET] in the future, every step forward is complicated with more and more uncertainties, especially when compared with the golden days governed by [Dennard's scaling](), the time when everyone knows better electronics will come out each year.
+Back from [HKMG]() and [FinFET](), to [GAA]() and [CFET]() in the future, every step forward is complicated with more and more uncertainties, especially when compared with the golden days governed by [Dennard's scaling](), the time when everyone knows better electronics will come out each year.
 
 Anticipating this **lost of stability** and its potential economic impact, I direct my research effort down the "more than Moore" way.
 The golden days, though gone, have left us a family of transistors that are amazingly compact and energy efficient for information processing.
