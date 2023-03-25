@@ -4,6 +4,7 @@ layout: default
 filename: index
 menu_order: A
 page_slider:
+  - name: slider_applications
   - name: slider_trial
 ---
 
@@ -12,10 +13,10 @@ page_slider:
 ## Hardware Engineering for the Next Generation
 
 !!!UNDER MAINTENANCE!!! - Coming up soon!
--- Revision 4
-
-<!--
-[Moore's law](http://www.computer-architecture.org/textual/Moore-Cramming-More-Components-1965.pdf) is dead.
+-- Revision 5
+<!---
+[Moore's law](http://www.computer-architecture.org/textual/Moore-Cramming-More-Components-1965.pdf) is losing its magic.
+To me, 
 It is dead not for the fact that transistors have stopped scaling, but because we don't have a **stable** delivery of better transistors any more.
 Shrinking transistors now involves revolutionary new device structures and new materials, starting from HKMG, FinFET, to GAA in the future, each step forward is complicated with more and more uncertainties, especially if we compare them with the golden age when Dennard's scaling holds just well.
 And this **lost of stability** is what I consider the death of Moore's law.
@@ -23,20 +24,39 @@ And this **lost of stability** is what I consider the death of Moore's law.
 Here I devote my research effort to the "more than Moore" way, bridging integrated circuit design with new applications.
 Specifically, I design low power circuits, typically in the sub-nW range, that uses energy that is previously thought unusable, to acquire information that was otherwise undetectable.
 I hope my work can inspire brand new applications of how integrated circuits can be used, and transform our specific ways of living.
--->
+--->
+
+The past decades enjoyed Moore's law's magic, as it predicts a **stable** growth of computing power at a unit cost.
+However, in recent years, this stability starts to fade.
+Smaller and better transistors will be there, but each step of shrinking will involve revolutionary new device structures and new materials.
+Back from [HKMG] and [FinFET], to [GAA] and [CFET] in the future, every step forward is complicated with more and more uncertainties, especially when compared with the golden days governed by [Dennard's scaling](), the time when everyone knows better electronics will come out each year.
+
+Anticipating this **lost of stability** and its potential economic impact, I direct my research effort down the "more than Moore" way.
+The golden days, though gone, have left us a family of transistors that are amazingly compact and energy efficient for information processing.
+There potential is far beyond pushing what has been done better.
+In particular, I current research focuses on circuits operating in the nW/sub-nW range, and unleashing their great possibility to make information processing happening using ambient power sources previously overlooked.
+That is to say, **making the invisible useful**.
 
 <hr style="height:3px">
 
 ## Research Directions
 
 ---
+### Towards Novel Applications
 
 <div><strong>Augmented Ultrasonography with Implanted CMOS Electronic Motes</strong>,
 in <a href="https://www.nature.com/articles/s41467-022-31166-x"><i>Nature Communications</i></a> and <a href="https://ieeexplore.ieee.org/abstract/document/8780205"><i>2019 Custom Integrated Circuit Conference</i></a></div>
 
 <div style="text-align: right">— Extending B-mode ultrasonography's view with sub-nW electronic implants.</div>
 
-![Augmented Ultrasonography, its concept](assets/aug_ultrasound.png)
+<p>
+  <div id="slider_applications">
+	<img src="assets/A.jpg" title="A!" alt="The first image of the sliders" />
+	<img src="assets/B.jpg" title="B!" alt="The second image of the sliders" />
+	<img src="assets/C.jpg" title="C!" alt="The third image of the sliders" />
+	<img src="assets/D.jpg" title="D!" alt="The fourth image of the sliders" />
+  </div>
+</p>
 
 **Project Highlights**
 * The proposed concept is implemented with custom-designed extremely low power integrated circuits (sub-nW regime)
@@ -52,6 +72,8 @@ in <a href="https://www.nature.com/articles/s41467-022-31166-x"><i>Nature Commun
 <br>
 
 ---
+
+### Expanding the Ecosystem of Sub-nW Circuits
 
 <div><strong>Sub-nW Fully Integrated pH Sensor</strong>, in <a href="https://ieeexplore.ieee.org/abstract/document/9163023"><i>2020 IEEE Symposium on VLSI Circuits</i></a></div>
 
