@@ -13,7 +13,7 @@ page_slider:
 ## Hardware Engineering for the Next Generation
 
 !!!UNDER MAINTENANCE!!! - Coming up soon!
--- Revision 5
+-- Revision 6
 
 The past decades enjoyed [Moore's law](http://www.computer-architecture.org/textual/Moore-Cramming-More-Components-1965.pdf)'s magic, as it predicts a **stable** growth of computing power at a unit cost.
 However, in recent years, this stability starts to fade.
@@ -22,9 +22,9 @@ Back from [HKMG]() and [FinFET](), to [GAA]() and [CFET]() in the future, every 
 
 Anticipating this **lost of stability** and its potential economic impact, I direct my research effort down the "more than Moore" way.
 The golden days, though gone, have left us a family of transistors that are amazingly compact and energy efficient for information processing.
-There potential is far beyond pushing what has been done better.
-In particular, I current research focuses on circuits operating in the nW/sub-nW range, and unleashing their great possibility to make information processing happening using ambient power sources previously overlooked.
-That is to say, **making the invisible useful**.
+In particular, my current research focuses on circuits operating in the nW/sub-nW range, and unleashing their great possibility to make information processing happening using novel power sources previously overlooked.
+That is to say, I try to use my IC engineering expertise to **make the invisible useful**.
+And I hope alongside my research path, there is an opportunity for the IC industry to establish a new way to grow stably again.
 
 <hr style="height:3px">
 
