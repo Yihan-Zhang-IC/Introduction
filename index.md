@@ -25,18 +25,6 @@ I concentrate my current research on circuits operating in the nW/sub-nW range, 
 In other words, **I aim to apply my integrated circuit (IC) engineering skills to make the unseen useful**.
 I hope my research path will help the IC industry find a new way to achieve stable growth again.
 
-
-
-However, in recent years, this stability starts to fade.
-Smaller and better transistors will be there, but each step of shrinking will involve revolutionary new device structures and new materials.
-Back from [HKMG]() and [FinFET](), to [GAA]() and [CFET]() in the future, every step forward is complicated with more and more uncertainties, especially when compared with the golden days governed by [Dennard's scaling](), the time when everyone knows better electronics will come out each year.
-
-Anticipating this **loss of stability** and its potential economic impact, I direct my research effort down the "more than Moore" way.
-The golden days, though gone, have left us with a family of transistors that are amazingly compact and energy efficient for information processing.
-In particular, my current research focuses on circuits operating in the nW/sub-nW range, and unleashing their great possibility to make information processing happening using novel power sources previously overlooked.
-That is to say, I try to use my IC engineering expertise to **make the invisible useful**.
-And I hope alongside my research path, there is an opportunity for the IC industry to establish a new way to grow stably again.
-
 <hr style="height:3px">
 
 ## Research Directions
