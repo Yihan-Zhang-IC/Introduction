@@ -17,7 +17,7 @@ page_slider:
 
 In the past decades, [Moore's Law](http://www.computer-architecture.org/textual/Moore-Cramming-More-Components-1965.pdf) guided the semiconductor industry with its prediction of a **steady growth** in computing power at a fixed unit cost.
 However, in recent years, this stability has started to decline. 
-While smaller and more efficient transistors will continue to emerge, each step toward miniaturization requires new device structures and materials. From [high-k metal gate (HKMG)]() and [FinFET]() to [gate-all-around (GAA)]() and [complementary FET (CFET)]() in the future, each advancement encounters novel **uncertainties**, especially when compared to the golden days of [Dennard scaling](), that allows us to rely on yearly improvements in electronics.
+While smaller and more efficient transistors will continue to emerge, each step toward miniaturization requires new device structures and materials. From [high-k metal gate (HKMG)](https://ieeexplore.ieee.org/abstract/document/4418914/) and [FinFET](https://ieeexplore.ieee.org/abstract/document/6242496) to [gate-all-around (GAA)](https://ieeexplore.ieee.org/document/8614629) and [complementary FET (CFET)](https://ieeexplore.ieee.org/abstract/document/8510618) in the future, each advancement encounters novel **uncertainties**, especially when compared to the golden days of [Dennard scaling](https://ieeexplore.ieee.org/document/1050511), that allows us to rely on yearly improvements in electronics.
 
 Aware of the potential economic impact of this decreasing stability, I have directed my research on a "more-than-Moore" approach.
 Although the golden era may have passed, it left us with a range of compact and energy-efficient transistors for information processing.
