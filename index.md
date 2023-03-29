@@ -39,8 +39,8 @@ in <a href="https://www.nature.com/articles/s41467-022-31166-x"><i>Nature Commun
 
 <p>
   <div id="slider_applications">
-	<img src="assets/AugmentedUltrasonography.jpg" title="A!" alt="The first image of the sliders" />
-	<img src="assets/AugmentedUltrasonography.jpg" title="B!" alt="The second image of the sliders" />
+	<img src="assets/AugmentedUltrasonography.png" title="A!" alt="The first image of the sliders" />
+	<img src="assets/AugmentedUltrasonography.png" title="B!" alt="The second image of the sliders" />
   </div>
 </p>
 
