@@ -54,10 +54,9 @@ I hope my research path will help the IC industry find a new way to achieve stab
 * Multi-disciplinary engineering efforts including IC design, package design, image processing algorithm design, etc.
 * _In vivo_ verification with mouse
 * ... and my years of effort!
-
 </details>
 
-<p class="" style="margin: 4px;"></p>
+<p class="" style="margin: 12px;"></p>
 
 ---
 
