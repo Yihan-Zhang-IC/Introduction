@@ -39,7 +39,7 @@ in <a href="https://www.nature.com/articles/s41467-022-31166-x"><i>Nature Commun
 
 <p>
   <div id="slider_applications">
-	<img src="assets/AugmentedUltrasonography.jpg" title="Medical Ultrasound" alt="with vision extended by CMOS implants" />
+	<img src="assets/AugmentedUltrasonography.jpg" title="Medical Ultrasound" alt="augmented by CMOS implants" />
 	<img src="assets/AugmentedUltrasonography.jpg" title="Implementation" alt="made possible with sub-nW circuit" />
   </div>
 </p>
