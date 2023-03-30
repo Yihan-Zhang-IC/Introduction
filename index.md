@@ -32,27 +32,28 @@ I hope my research path will help the IC industry find a new way to achieve stab
 ---
 ### Towards Novel Applications
 
-<div><strong>Augmented Ultrasonography with Implanted CMOS Electronic Motes</strong>,
-in <a href="https://www.nature.com/articles/s41467-022-31166-x"><i>Nature Communications</i></a> and <a href="https://ieeexplore.ieee.org/abstract/document/8780205"><i>2019 Custom Integrated Circuit Conference</i></a></div>
-
-<div style="text-align: right">— Extending B-mode ultrasonography's view with sub-nW electronic implants.</div>
+<div style="text-align: right">— Exploring the potential beheld by ultra-low-power circuits.</div>
 
 <p>
   <div id="slider_applications">
-	<img src="assets/AugmentedUltrasonography.jpg" title="Medical Ultrasound" alt="augmented by CMOS implants" />
-	<img src="assets/AugmentedUltrasonography.jpg" title="Implementation" alt="made possible with sub-nW circuit" />
+	<img src="assets/au_concept.jpg" title="Medical Ultrasound" alt="augmented by CMOS implants" />
+	<img src="assets/au_implementation.jpg" title="Implementation" alt="made possible with sub-nW circuit" />
   </div>
 </p>
 
-**Project Highlights**
-* The proposed concept is implemented with custom-designed extremely low power integrated circuits (sub-nW regime)
+**Augmented Ultrasonography with Implanted CMOS Electronic Motes:**
+* The complete idea is published in [Nature Communications](https://www.nature.com/articles/s41467-022-31166-x).
+* A more detailed description of the circuit is available in [2019 Custom Integrated Circuit Conference](https://ieeexplore.ieee.org/abstract/document/8780205)
+
+<details markdown="1">
+<summary><b>More on this project...</b></summary>
+
+* The proposed concept is implemented in custom-designed extremely low power integrated circuits (sub-nW regime)
 * Simultaneous, digital, bi-directional datalinks for multiple implants thanks to B-mode's spatial polling mechanism
 * Multi-disciplinary engineering efforts including IC design, package design, image processing algorithm design, etc.
 * _In vivo_ verification with mouse
+* ... and my years of effort!
 
-<details markdown="1">
-<summary><b>Ideas behind this project</b></summary>
-... to come
 </details>
 
 <br>
