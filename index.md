@@ -47,6 +47,7 @@ I hope my research path will help the IC industry find a new way to achieve stab
 
 <details markdown="1">
 <summary><b>More on this project...</b></summary>
+<br>
 
 * The proposed concept is implemented in custom-designed extremely low power integrated circuits (sub-nW regime)
 * Simultaneous, digital, bi-directional datalinks for multiple implants thanks to B-mode's spatial polling mechanism
@@ -55,8 +56,6 @@ I hope my research path will help the IC industry find a new way to achieve stab
 * ... and my years of effort!
 
 </details>
-
-<br>
 
 ---
 
