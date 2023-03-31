@@ -47,8 +47,8 @@ I hope my research path will help the IC industry find a new way to achieve stab
 - The complete idea is published in [Nature Communications](https://www.nature.com/articles/s41467-022-31166-x).
 - A more detailed circuit paper is available in [2019 Custom Integrated Circuit Conference](https://ieeexplore.ieee.org/abstract/document/8780205).
 
-<details markdown="1">
-<summary><b>More on this project...</b></summary>
+<details markdown="1" style="padding-left: 22px">
+<summary style="cursor: pointer"><b>More on this project...</b></summary>
 <p class="" style="margin: 4px;"></p>
 
 - The proposed concept is implemented in custom-designed extremely low power integrated circuits (sub-nW regime)
@@ -82,7 +82,7 @@ I hope my research path will help the IC industry find a new way to achieve stab
 - Circuit published in [2020 IEEE Symposium on VLSI Circuits](https://ieeexplore.ieee.org/abstract/document/9163023).
 
 <details markdown="1" style="padding-left: 22px">
-<summary style="cursor: pointer"><b>More on this project</b></summary>
+<summary style="cursor: pointer"><b>More on this project...</b></summary>
 <p class="" style="margin: 4px;"></p>
 
 - Full-stack engineering efforts from device fabrication to software design.
@@ -93,7 +93,7 @@ I hope my research path will help the IC industry find a new way to achieve stab
 
 <p class="" style="margin: 16px;"></p>
 
-<hr style="width: 50%">
+<hr color="ghostwhite">
 
 **0.664nW Low Leakage 6T-SRAM Macro at 256kb Capacity (2.53fW/bit)**
 
@@ -101,8 +101,8 @@ I hope my research path will help the IC industry find a new way to achieve stab
 - Demonstrating an SRAM array with fW/bit-level leakage, while operating at MHz-speed.
 - Circuit published in [2022 IEEE International Solid-State Circuit Conference](https://ieeexplore.ieee.org/document/9731573)
 
-<details markdown="1">
-<summary><b>More on this project</b></summary>
+<details markdown="1" style="padding-left: 22px">
+<summary style="cursor: pointer"><b>More on this project...</b></summary>
 <p class="" style="margin: 4px;"></p>
 
 - Proposed SRAM macro topology achieves extremely low leakage, high density, and fast operation all at once, with verifications done across technology nodes (180nm & 55nm).
@@ -121,8 +121,8 @@ I hope my research path will help the IC industry find a new way to achieve stab
 - Demonstrating an 32.768kHz crystal oscillator with state-of-the-art accuracy and low power.
 - Circuit published in [2023 IEEE International Solid-State Circuit Conference](https://ieeexplore.ieee.org/document/10067462/)
 
-<details markdown="1">
-<summary><b>More on this project</b></summary>
+<details markdown="1" style="padding-left: 22px">
+<summary style="cursor: pointer"><b>More on this project...</b></summary>
 <p class="" style="margin: 4px;"></p>
 
 - Full-stack engineering efforts from device fabrication to software design.
