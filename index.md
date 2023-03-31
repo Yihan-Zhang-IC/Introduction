@@ -81,14 +81,14 @@ I hope my research path will help the IC industry find a new way to achieve stab
 - Demonstrating an analog signal chain, from chemical signal all the way to digital, in just 0.72nW of power.
 - Circuit published in [2020 IEEE Symposium on VLSI Circuits](https://ieeexplore.ieee.org/abstract/document/9163023).
 
-<details markdown="1" style="padding-left: 22px; padding-top: -20px">
-<summary><b>More on this project</b></summary>
+<details markdown="1" style="padding-left: 22px">
+<summary cursor="pointer"><b>More on this project</b></summary>
 <p class="" style="margin: 4px;"></p>
 
 - Full-stack engineering efforts from device fabrication to software design.
 - 65.8 LSB/pH from on-chip pH sensing site to digital data interface.
 - Easy to use with a total of 8 pins: VDD, VSS, and 6 digital signal pins.
-- Designed with data acquisition software for easy, real-time pH monitoring.
+- Designed towards sub-nW electrochemical sensing.
 </details>
 
 <p class="" style="margin: 16px;"></p>
@@ -105,10 +105,10 @@ I hope my research path will help the IC industry find a new way to achieve stab
 <summary><b>More on this project</b></summary>
 <p class="" style="margin: 4px;"></p>
 
-- SRAM design achieves extremely low leakage, high density, and fast operation all at once.
-- Topological innovation verified across technology nodes (180nm & 55nm).
+- Proposed SRAM macro topology achieves extremely low leakage, high density, and fast operation all at once, with verifications done across technology nodes (180nm & 55nm).
 - Easy to use with a single external supply and a single operation mode.
-- State-of-the-art performance.
+- State-of-the-art performance: 2.53fW/bit & 1.16MHz (180nm) and 55.2fW/bit & 17.6MHz (55nm).
+- Designed towards sub-nW digital processing.
 </details>
 
 <p class="" style="margin: 16px;"></p>
