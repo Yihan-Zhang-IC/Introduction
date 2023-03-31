@@ -95,7 +95,7 @@ I hope my research path will help the IC industry find a new way to achieve stab
 
 <hr style="width: 50%">
 
-**0.664nW Low Leakage SRAM at 256kb Capacity (2.53fW/bit)**
+**0.664nW Low Leakage 6T-SRAM Macro at 256kb Capacity (2.53fW/bit)**
 
 - Exploring how much we can remember in the sub-nW regime.
 - Demonstrating an SRAM array with fW/bit-level leakage, while operating at MHz-speed.
@@ -105,10 +105,10 @@ I hope my research path will help the IC industry find a new way to achieve stab
 <summary><b>More on this project</b></summary>
 <p class="" style="margin: 4px;"></p>
 
-- Full-stack engineering efforts from device fabrication to software design.
-- 65.8 LSB/pH from on-chip pH sensing site to digital data interface.
-- Easy to use with a total of 8 pins: VDD, VSS, and 6 digital signal pins.
-- Designed with data acquisition software for easy, real-time pH monitoring.
+- SRAM design achieves extremely low leakage, high density, and fast operation all at once.
+- Topological innovation verified across technology nodes (180nm & 55nm).
+- Easy to use with a single external supply and a single operation mode.
+- State-of-the-art performance.
 </details>
 
 <p class="" style="margin: 16px;"></p>
