@@ -93,6 +93,8 @@ I hope my research path will help the IC industry find a new way to achieve stab
 
 <p class="" style="margin: 16px;"></p>
 
+<hr style="width=50%">
+
 **• 0.664nW Low Leakage SRAM at 256kb Capacity(2.53fW/bit)**
 
 - Exploring how much we can remember in the sub-nW regime.
@@ -110,6 +112,8 @@ I hope my research path will help the IC industry find a new way to achieve stab
 </details>
 
 <p class="" style="margin: 16px;"></p>
+
+<hr style="width=50%">
 
 **• 0.954nW Low Power 32.768kHz Crystal Oscillator**
 
