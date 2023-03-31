@@ -25,7 +25,7 @@ I concentrate my current research on circuits operating in the nW/sub-nW range, 
 In other words, **I aim to apply my integrated circuit (IC) engineering skills to make the unseen useful**.
 I hope my research path will help the IC industry find a new way to achieve stable growth again.
 
-<hr style="height:3px">
+<hr style="height: 3px">
 
 ## Research Directions
 
@@ -93,9 +93,9 @@ I hope my research path will help the IC industry find a new way to achieve stab
 
 <p class="" style="margin: 16px;"></p>
 
-<hr style="width=50%">
+<hr style="width: 50%">
 
-**• 0.664nW Low Leakage SRAM at 256kb Capacity(2.53fW/bit)**
+**• 0.664nW Low Leakage SRAM at 256kb Capacity (2.53fW/bit)**
 
 - Exploring how much we can remember in the sub-nW regime.
 - Demonstrating an SRAM array with fW/bit-level leakage, while operating at MHz-speed.
@@ -113,7 +113,7 @@ I hope my research path will help the IC industry find a new way to achieve stab
 
 <p class="" style="margin: 16px;"></p>
 
-<hr style="width=50%">
+<hr style="width: 50%">
 
 **• 0.954nW Low Power 32.768kHz Crystal Oscillator**
 
@@ -133,7 +133,7 @@ I hope my research path will help the IC industry find a new way to achieve stab
 
 <p class="" style="margin: 16px;"></p>
 
-<hr style="height:3px">
+<hr style="height: 3px">
 
 ## Selected Publications
 
