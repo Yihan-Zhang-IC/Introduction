@@ -5,7 +5,7 @@ filename: index
 menu_order: A
 page_slider:
   - name: slider_applications
-  - name: slider_trial
+  - name: slider_circuits
 ---
 
 <hr style="height:3px">
@@ -42,51 +42,32 @@ I hope my research path will help the IC industry find a new way to achieve stab
 </p>
 
 **Augmented Ultrasonography with Implanted CMOS Electronic Motes:**
-* The complete idea is published in [Nature Communications](https://www.nature.com/articles/s41467-022-31166-x).
-* A more detailed description of the circuit is available in [2019 Custom Integrated Circuit Conference](https://ieeexplore.ieee.org/abstract/document/8780205)
+- Demonstrating how imaging process can also deliver power, at nW-level!
+- Showcasing how sub-nW circuits can harvest this energy and create new vehicles for retrieving information within our body.
+- The complete idea is published in [Nature Communications](https://www.nature.com/articles/s41467-022-31166-x).
+- A more detailed circuit paper is available in [2019 Custom Integrated Circuit Conference](https://ieeexplore.ieee.org/abstract/document/8780205).
 
 <details markdown="1">
 <summary><b>More on this project...</b></summary>
 <p class="" style="margin: 4px;"></p>
 
-* The proposed concept is implemented in custom-designed extremely low power integrated circuits (sub-nW regime)
-* Simultaneous, digital, bi-directional datalinks for multiple implants thanks to B-mode's spatial polling mechanism
-* Multi-disciplinary engineering efforts including IC design, package design, image processing algorithm design, etc.
-* _In vivo_ verification with mouse
-* ... and my years of effort!
+- The proposed concept is implemented in custom-designed extremely low power integrated circuits (sub-nW regime)
+- Simultaneous, digital, bi-directional datalinks for multiple implants thanks to B-mode's spatial polling mechanism
+- Multi-disciplinary engineering efforts including IC design, package design, image processing algorithm design, etc.
+- _In vivo_ verification with mouse
+- ... and my years of effort!
 </details>
 
 <p class="" style="margin: 12px;"></p>
 
 ---
 
-### Expanding the Ecosystem of Sub-nW Circuits
+### Expanding the Sub-nW Ecosystem
 
-<div><strong>Sub-nW Fully Integrated pH Sensor</strong>, in <a href="https://ieeexplore.ieee.org/abstract/document/9163023"><i>2020 IEEE Symposium on VLSI Circuits</i></a></div>
+<div style="text-align: right">— Extending the capability of sub-nW circuit and systems.</div>
 
-<div style="text-align: right">— From a chemical signal to digital interface, all in 0.72 nW.</div>
-
-
-**Project Highlights**
-- Full-stack engineering efforts from device fabrication to software design.
-- 65.8 LSB/pH from on-chip pH sensing site to digital data interface.
-- Easy to use with a total of 8 pins: VDD, VSS, and 6 digital signal pins.
-- Designed with data acquisition software for easy, real-time pH monitoring.
-
-<details markdown="1">
-<summary>More on this project</summary>
-... to come
-</details>
-
-<br>
-
----
-
-<div><strong>Low-Leakage, High-Speed SRAM Design</strong>, in <a href="https://ieeexplore.ieee.org/document/9731573"><i>2022 IEEE International Solid-State Circuit Conference</i></a></div>
-<div style="text-align: right">— Exploring how much we can remember in the sub-nW regime.</div>
-<p class="" style="margin: 4px;"></p>
 <p>
-  <div id="slider_trial">
+  <div id="slider_circuits">
 	<img src="assets/A.jpg" title="A!" alt="The first image of the sliders" />
 	<img src="assets/B.jpg" title="B!" alt="The second image of the sliders" />
 	<img src="assets/C.jpg" title="C!" alt="The third image of the sliders" />
@@ -94,8 +75,54 @@ I hope my research path will help the IC industry find a new way to achieve stab
   </div>
 </p>
 
-**Project Highlights**
-- Placeholder, with more to change
+**0.72 nW Fully Integrated pH Sensor:**
+
+- Exploring sensing possibility in the sub-nW kingdom.
+- Demonstrating an analog signal chain, from chemical signal all the way to digital, in just 0.72nW of power.
+- Circuit published in [2020 IEEE Symposium on VLSI Circuits](https://ieeexplore.ieee.org/abstract/document/9163023).
+
+<details markdown="1">
+<summary><b>More on this project</b></summary>
+<p class="" style="margin: 4px;"></p>
+
+- Full-stack engineering efforts from device fabrication to software design.
+- 65.8 LSB/pH from on-chip pH sensing site to digital data interface.
+- Easy to use with a total of 8 pins: VDD, VSS, and 6 digital signal pins.
+- Designed with data acquisition software for easy, real-time pH monitoring.
+</details>
+
+**0.664nW Low Leakage SRAM at 256kb Capacity(2.53fW/bit)**
+
+- Exploring how much we can remember in the sub-nW regime.
+- Demonstrating an SRAM array with fW/bit-level leakage, while operating at MHz-speed.
+- Circuit published in [2022 IEEE International Solid-State Circuit Conference](https://ieeexplore.ieee.org/document/9731573)
+
+<details markdown="1">
+<summary><b>More on this project</b></summary>
+<p class="" style="margin: 4px;"></p>
+
+- Full-stack engineering efforts from device fabrication to software design.
+- 65.8 LSB/pH from on-chip pH sensing site to digital data interface.
+- Easy to use with a total of 8 pins: VDD, VSS, and 6 digital signal pins.
+- Designed with data acquisition software for easy, real-time pH monitoring.
+</details>
+
+**0.954nW Low Power 32.768kHz Crystal Oscillator**
+
+- Exploring how much we can remember in the sub-nW regime.
+- Demonstrating an SRAM array with fW/bit-level leakage, while operating at MHz-speed.
+- Circuit published in [2023 IEEE International Solid-State Circuit Conference](https://ieeexplore.ieee.org/document/9731573)
+
+<details markdown="1">
+<summary><b>More on this project</b></summary>
+<p class="" style="margin: 4px;"></p>
+
+- Full-stack engineering efforts from device fabrication to software design.
+- 65.8 LSB/pH from on-chip pH sensing site to digital data interface.
+- Easy to use with a total of 8 pins: VDD, VSS, and 6 digital signal pins.
+- Designed with data acquisition software for easy, real-time pH monitoring.
+</details>
+
 
 <hr style="height:3px">
 
