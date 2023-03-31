@@ -81,7 +81,7 @@ I hope my research path will help the IC industry find a new way to achieve stab
 - Demonstrating an analog signal chain, from chemical signal all the way to digital, in just 0.72nW of power.
 - Circuit published in [2020 IEEE Symposium on VLSI Circuits](https://ieeexplore.ieee.org/abstract/document/9163023).
 
-<details markdown="1">
+<details markdown="1" style="padding-left: 10px">
 <summary><b>More on this project</b></summary>
 <p class="" style="margin: 4px;"></p>
 
