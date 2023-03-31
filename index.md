@@ -82,7 +82,7 @@ I hope my research path will help the IC industry find a new way to achieve stab
 - Circuit published in [2020 IEEE Symposium on VLSI Circuits](https://ieeexplore.ieee.org/abstract/document/9163023).
 
 <details markdown="1" style="padding-left: 22px">
-<summary cursor="pointer"><b>More on this project</b></summary>
+<summary style="cursor: pointer"><b>More on this project</b></summary>
 <p class="" style="margin: 4px;"></p>
 
 - Full-stack engineering efforts from device fabrication to software design.
