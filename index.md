@@ -117,9 +117,9 @@ I hope my research path will help the IC industry find a new way to achieve stab
 
 **0.954nW Low Power 32.768kHz Crystal Oscillator**
 
-- Exploring how much we can remember in the sub-nW regime.
-- Demonstrating an SRAM array with fW/bit-level leakage, while operating at MHz-speed.
-- Circuit published in [2023 IEEE International Solid-State Circuit Conference](https://ieeexplore.ieee.org/document/9731573)
+- Exploring accurate time-keeping in the sub-nW regime.
+- Demonstrating an 32.768kHz crystal oscillator with state-of-the-art accuracy and low power.
+- Circuit published in [2023 IEEE International Solid-State Circuit Conference](https://ieeexplore.ieee.org/document/10067462/)
 
 <details markdown="1">
 <summary><b>More on this project</b></summary>
@@ -139,7 +139,7 @@ I hope my research path will help the IC industry find a new way to achieve stab
 
 1. Y. You, K. Ma, R. Tian, Y. Zhang, Z. Chen, and **Y. Zhang**, "A 10-bit 15 V-Compliant Bi-Phasic Current-Mode Vagus Nerve Stimulation Circuit in 180 nm BCD Technology", to appear in _2023 International Symposium on Circuit and Systems (ISCAS)_, May. 22, 2023.
 
-1. **Y. Zhang**, Y. You, W. Ren, X. Xu, L. Shen, J. Ru, R. Huang, and L. Ye, "A 0.954nW 32kHz Crystal Oscillator in 22nm CMOS with Gm-C-Based Current Injection Control," in _2023 IEEE International Solid-State Circuit Conference (ISSCC)_, pp. 68-69, Feb. 20, 2023
+1. **Y. Zhang**, Y. You, W. Ren, X. Xu, L. Shen, J. Ru, R. Huang, and L. Ye, "[A 0.954nW 32kHz Crystal Oscillator in 22nm CMOS with Gm-C-Based Current Injection Control](https://ieeexplore.ieee.org/document/10067462/)," in _2023 IEEE International Solid-State Circuit Conference (ISSCC)_, pp. 68-69, Feb. 20, 2023
 
 1. **Y. Zhang**, P. Muthuraman, V. Andino-Pavlovsky, I. Uguz, J. Elloian, and K. L. Shepard, "[Augmented Ultrasonography with Implanted CMOS Electronic Motes](https://www.nature.com/articles/s41467-022-31166-x)," in _Nature Communications_, **13**, 3521, 2022.
 
