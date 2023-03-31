@@ -13,7 +13,7 @@ page_slider:
 ## Hardware Engineering for the Next Generation
 
 !!!UNDER MAINTENANCE!!! - Coming up soon!
--- Revision 6
+-- Revision 7
 
 In the past decades, [Moore's Law](http://www.computer-architecture.org/textual/Moore-Cramming-More-Components-1965.pdf) guided the semiconductor industry with its prediction of a **steady growth** in computing power at a fixed unit cost.
 However, in recent years, this stability has started to decline. 
@@ -91,6 +91,8 @@ I hope my research path will help the IC industry find a new way to achieve stab
 - Designed with data acquisition software for easy, real-time pH monitoring.
 </details>
 
+<p class="" style="margin: 16px;"></p>
+
 **0.664nW Low Leakage SRAM at 256kb Capacity(2.53fW/bit)**
 
 - Exploring how much we can remember in the sub-nW regime.
@@ -106,6 +108,8 @@ I hope my research path will help the IC industry find a new way to achieve stab
 - Easy to use with a total of 8 pins: VDD, VSS, and 6 digital signal pins.
 - Designed with data acquisition software for easy, real-time pH monitoring.
 </details>
+
+<p class="" style="margin: 16px;"></p>
 
 **0.954nW Low Power 32.768kHz Crystal Oscillator**
 
@@ -123,6 +127,7 @@ I hope my research path will help the IC industry find a new way to achieve stab
 - Designed with data acquisition software for easy, real-time pH monitoring.
 </details>
 
+<p class="" style="margin: 16px;"></p>
 
 <hr style="height:3px">
 
