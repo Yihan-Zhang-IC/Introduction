@@ -75,13 +75,13 @@ I hope my research path will help the IC industry find a new way to achieve stab
   </div>
 </p>
 
-**• 0.72 nW Fully Integrated pH Sensor:**
+**0.72 nW Fully Integrated pH Sensor:**
 
 - Exploring sensing possibility in the sub-nW kingdom.
 - Demonstrating an analog signal chain, from chemical signal all the way to digital, in just 0.72nW of power.
 - Circuit published in [2020 IEEE Symposium on VLSI Circuits](https://ieeexplore.ieee.org/abstract/document/9163023).
 
-<details markdown="1" style="padding-left: 10px">
+<details markdown="1" style="padding-left: 20px">
 <summary><b>More on this project</b></summary>
 <p class="" style="margin: 4px;"></p>
 
@@ -95,7 +95,7 @@ I hope my research path will help the IC industry find a new way to achieve stab
 
 <hr style="width: 50%">
 
-**• 0.664nW Low Leakage SRAM at 256kb Capacity (2.53fW/bit)**
+**0.664nW Low Leakage SRAM at 256kb Capacity (2.53fW/bit)**
 
 - Exploring how much we can remember in the sub-nW regime.
 - Demonstrating an SRAM array with fW/bit-level leakage, while operating at MHz-speed.
@@ -113,9 +113,9 @@ I hope my research path will help the IC industry find a new way to achieve stab
 
 <p class="" style="margin: 16px;"></p>
 
-<hr style="width: 50%">
+<hr style="width: 50%; text-align=center">
 
-**• 0.954nW Low Power 32.768kHz Crystal Oscillator**
+**0.954nW Low Power 32.768kHz Crystal Oscillator**
 
 - Exploring how much we can remember in the sub-nW regime.
 - Demonstrating an SRAM array with fW/bit-level leakage, while operating at MHz-speed.
