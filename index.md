@@ -125,10 +125,7 @@ I hope my research path will help the IC industry find a new way to achieve stab
 <summary style="cursor: pointer"><b>More on this project...</b></summary>
 <p class="" style="margin: 4px;"></p>
 
-- Full-stack engineering efforts from device fabrication to software design.
-- 65.8 LSB/pH from on-chip pH sensing site to digital data interface.
-- Easy to use with a total of 8 pins: VDD, VSS, and 6 digital signal pins.
-- Designed with data acquisition software for easy, real-time pH monitoring.
+- Under construction
 </details>
 
 <p class="" style="margin: 16px;"></p>
