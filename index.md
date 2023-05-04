@@ -95,7 +95,7 @@ I hope my research path will help the IC industry find a new way to achieve stab
 
 <hr color="ghostwhite">
 
-**0.663nW Low Leakage 6T-SRAM Macro at 256kb Capacity (2.53fW/bit)**
+**0.663 nW Low Leakage 6T-SRAM Macro at 256 kb Capacity (2.53 fW/bit)**
 
 - Exploring how much we can remember in the sub-nW regime.
 - Demonstrating an SRAM array with fW/bit-level leakage, while operating at MHz-speed.
@@ -115,7 +115,7 @@ I hope my research path will help the IC industry find a new way to achieve stab
 
 <hr color="ghostwhite">
 
-**0.954nW Low Power 32.768kHz Crystal Oscillator**
+**0.954 nW Low Power 32.768 kHz Crystal Oscillator**
 
 - Exploring accurate time-keeping in the sub-nW regime.
 - Demonstrating an 32.768kHz crystal oscillator with state-of-the-art accuracy and low power.
