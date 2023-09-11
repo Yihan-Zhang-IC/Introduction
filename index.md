@@ -35,6 +35,8 @@ Decisions are based on interview results only. If you are interested in, please 
 
 **Postdoc position**: We have 1-2 positions available. Please send me your CV. Postdoc offers are highly dependent on your past research experience and skill set.
 
+<hr style="height: 3px">
+
 ## Research Directions
 
 ---
