@@ -10,7 +10,11 @@ menu_order: D
 ## Publications
 
 A complete list is also available at [my Google Scholar page](https://scholar.google.com/citations?user=WfKytL8AAAAJ&hl=en).
-List of publications in reverse chronological order (as of March 2023):
+List of publications in reverse chronological order (as of May 2023):
+
+1. Y. You, R. Tian, Y. Zhang, Z. Chen, W. Lu, and **Y.Zhang**, "A 15.7 V-compliant 86% Peak Efficiency Current-Mode Stimulator with Dynamic Voltage Supply for Implantable Medical Devices", to appear in _2023 IEEE European Solid-State Circuit Conference (ESSCIRC)_, Sept. 2023.
+
+1. X. Xu, L. Shen, S. Ye, J. Wu, Z. Chen, J. Gao, J. Cui, **Y. Zhang**, R. Huang, and L. Ye, "A 12.5-ppm/<sup>o</sup>C 1.086nW/kHz Relaxation Oscillator with Clock-Gated Discrete-Time Comparator in 22nm CMOS Technology", to appear in _2023 IEEE European Solid-State Circuit Conference (ESSCIRC)_, Sept. 2023.
 
 1. Y. You, K. Ma, R. Tian, Y. Zhang, Z. Chen, and **Y. Zhang**, "A 10-bit 15 V-Compliant Bi-Phasic Current-Mode Vagus Nerve Stimulation Circuit in 180 nm BCD Technology", to appear in _2023 International Symposium on Circuit and Systems (ISCAS)_, May. 22, 2023.
 

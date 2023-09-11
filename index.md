@@ -24,6 +24,17 @@ I hope my research path will help the IC industry find a new way to achieve stab
 
 <hr style="height: 3px">
 
+## We Are Hiring!
+
+For 2024 Spring and Fall Enrollment, we still have the following openings:
+
+**Ph.D. position**: We have one position available, for a candidate who satisfies the one of the following criteria:
+1. Has a master's degree in integrated circuit design, or
+1. Has a bachelor's degree in physics with a reasonable background knowledge in analog & digital circuit design.
+Decisions are based on interview results only. If you are interested in, please send me an email.
+
+**Postdoc position**: We have 1-2 positions available. Please send me your CV. Postdoc offers are highly dependent on your past research experience and skill set.
+
 ## Research Directions
 
 ---
@@ -134,6 +145,8 @@ I hope my research path will help the IC industry find a new way to achieve stab
 <hr style="height: 3px">
 
 ## Selected Publications
+
+1. Y. You, R. Tian, Y. Zhang, Z. Chen, W. Lu, and **Y.Zhang**, "A 15.7-V-Compliant 86% Peak Efficiency Current-Mode Stimulator with Dynamic Voltage Supply for Implantable Medical Devices", to appear in _2023 IEEE European Solid-State Circuit Conference (ESSCIRC)_, Sept. 2023.
 
 1. Y. You, K. Ma, R. Tian, Y. Zhang, Z. Chen, and **Y. Zhang**, "A 10-bit 15 V-Compliant Bi-Phasic Current-Mode Vagus Nerve Stimulation Circuit in 180 nm BCD Technology", to appear in _2023 International Symposium on Circuit and Systems (ISCAS)_, May. 22, 2023.
 
