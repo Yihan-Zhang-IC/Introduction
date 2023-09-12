@@ -148,9 +148,9 @@ Decisions are based on interview results only. If you are interested in, please 
 
 ## Selected Publications
 
-1. Y. You, R. Tian, Y. Zhang, Z. Chen, W. Lu, and **Y.Zhang**, "A 15.7-V-Compliant 86% Peak Efficiency Current-Mode Stimulator with Dynamic Voltage Supply for Implantable Medical Devices", to appear in _2023 IEEE European Solid-State Circuit Conference (ESSCIRC)_, Sept. 2023.
+1. Y. You, R. Tian, Y. Zhang, Z. Chen, W. Lu, and **Y.Zhang**, "A 15.7-V-Compliant 86% Peak Efficiency Current-Mode Stimulator with Dynamic Voltage Supply for Implantable Medical Devices", _2023 IEEE European Solid-State Circuit Conference (ESSCIRC)_, Sep. 2023.
 
-1. Y. You, K. Ma, R. Tian, Y. Zhang, Z. Chen, and **Y. Zhang**, "A 10-bit 15 V-Compliant Bi-Phasic Current-Mode Vagus Nerve Stimulation Circuit in 180 nm BCD Technology", to appear in _2023 International Symposium on Circuit and Systems (ISCAS)_, May. 22, 2023.
+1. Y. You, K. Ma, R. Tian, Y. Zhang, Z. Chen, and **Y. Zhang**, "A 10-bit 15 V-Compliant Bi-Phasic Current-Mode Vagus Nerve Stimulation Circuit in 180 nm BCD Technology", _2023 International Symposium on Circuit and Systems (ISCAS)_, May. 22, 2023.
 
 1. **Y. Zhang**, Y. You, W. Ren, X. Xu, L. Shen, J. Ru, R. Huang, and L. Ye, "[A 0.954nW 32kHz Crystal Oscillator in 22nm CMOS with Gm-C-Based Current Injection Control](https://ieeexplore.ieee.org/document/10067462/)," in _2023 IEEE International Solid-State Circuit Conference (ISSCC)_, pp. 68-69, Feb. 20, 2023
 
